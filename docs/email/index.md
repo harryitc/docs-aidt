@@ -1,3 +1,7 @@
+---
+description: Hướng dẫn sử dụng email sinh viên/giảng viên HUTECH và bộ công cụ Google Workspace (Drive, Docs, Meet, Classroom).
+---
+
 # Email & Google Apps
 
 Mỗi sinh viên/giảng viên HUTECH được cấp một tài khoản **email** kèm bộ công cụ **Google Workspace** (Drive, Docs, Meet, Classroom…).

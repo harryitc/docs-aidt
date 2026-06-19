@@ -1,17 +1,107 @@
 import { defineConfig } from 'vitepress'
 
+// ⚙️ Đổi domain này thành tên miền thật khi triển khai (dùng cho SEO: sitemap, canonical, Open Graph)
+const SITE_URL = 'https://help.hutech.edu.vn'
+const OG_IMAGE = `${SITE_URL}/og-image.png` // đặt ảnh 1200x630 vào docs/public/og-image.png
+
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   lang: 'vi-VN',
   title: 'HUTECH Help Center',
-  description: 'Trung tâm hỗ trợ và hướng dẫn sử dụng các hệ thống công nghệ thông tin của HUTECH',
+  titleTemplate: ':title | HUTECH Help Center',
+  description: 'Trung tâm hỗ trợ và hướng dẫn sử dụng các hệ thống công nghệ thông tin của HUTECH: tài khoản HUTECH ID, email, hệ thống LMS, cổng sinh viên và đào tạo.',
   lastUpdated: true,
   cleanUrls: true,
+
+  // SEO: tạo sitemap.xml tự động
+  sitemap: {
+    hostname: SITE_URL,
+  },
 
   head: [
     ['meta', { name: 'theme-color', content: '#0a6bd4' }],
     ['meta', { name: 'author', content: 'HUTECH' }],
+    ['meta', { name: 'keywords', content: 'HUTECH, hỗ trợ, hướng dẫn, HUTECH ID, SSO, email sinh viên, LMS, cổng sinh viên, đăng ký môn học, học phí' }],
+    ['meta', { name: 'robots', content: 'index, follow' }],
+    ['link', { rel: 'icon', href: '/favicon.ico' }],
+
+    // Open Graph (Facebook, Zalo...)
+    ['meta', { property: 'og:type', content: 'website' }],
+    ['meta', { property: 'og:site_name', content: 'HUTECH Help Center' }],
+    ['meta', { property: 'og:locale', content: 'vi_VN' }],
+    ['meta', { property: 'og:image', content: OG_IMAGE }],
+    ['meta', { property: 'og:image:width', content: '1200' }],
+    ['meta', { property: 'og:image:height', content: '630' }],
+
+    ['meta', { property: 'og:image:alt', content: 'HUTECH Help Center' }],
+
+    // Twitter / X
+    ['meta', { name: 'twitter:card', content: 'summary_large_image' }],
+    ['meta', { name: 'twitter:image', content: OG_IMAGE }],
+    ['meta', { name: 'twitter:image:alt', content: 'HUTECH Help Center' }],
+
+    // Structured data (JSON-LD) — giúp Google hiểu tổ chức & site, hỗ trợ ô tìm kiếm sitelinks
+    [
+      'script',
+      { type: 'application/ld+json' },
+      JSON.stringify({
+        '@context': 'https://schema.org',
+        '@type': 'Organization',
+        name: 'Trường Đại học Công nghệ TP.HCM (HUTECH)',
+        alternateName: 'HUTECH Help Center',
+        url: SITE_URL,
+        logo: `${SITE_URL}/logo.png`,
+        contactPoint: {
+          '@type': 'ContactPoint',
+          contactType: 'technical support',
+          email: 'it@hutech.edu.vn',
+          telephone: '+84-28-5445-2222',
+          areaServed: 'VN',
+          availableLanguage: ['Vietnamese'],
+        },
+      }),
+    ],
+    [
+      'script',
+      { type: 'application/ld+json' },
+      JSON.stringify({
+        '@context': 'https://schema.org',
+        '@type': 'WebSite',
+        name: 'HUTECH Help Center',
+        url: SITE_URL,
+        inLanguage: 'vi-VN',
+        potentialAction: {
+          '@type': 'SearchAction',
+          target: `${SITE_URL}/?q={search_term_string}`,
+          'query-input': 'required name=search_term_string',
+        },
+      }),
+    ],
   ],
+
+  // SEO: thêm canonical + og:title/og:description/og:url theo từng trang
+  transformPageData(pageData) {
+    const path = pageData.relativePath
+      .replace(/index\.md$/, '')
+      .replace(/\.md$/, '')
+    const canonical = `${SITE_URL}/${path}`
+
+    const title = pageData.frontmatter.title || pageData.title || 'HUTECH Help Center'
+    const description =
+      pageData.frontmatter.description ||
+      pageData.description ||
+      'Trung tâm hỗ trợ và hướng dẫn sử dụng các hệ thống công nghệ thông tin của HUTECH.'
+
+    pageData.frontmatter.head ??= []
+    pageData.frontmatter.head.push(
+      ['link', { rel: 'canonical', href: canonical }],
+      ['meta', { property: 'og:title', content: title }],
+      ['meta', { property: 'og:description', content: description }],
+      ['meta', { property: 'og:url', content: canonical }],
+      ['meta', { name: 'twitter:title', content: title }],
+      ['meta', { name: 'twitter:description', content: description }],
+    )
+  },
 
   themeConfig: {
     // logo: '/logo.svg', // bật lại khi bạn cung cấp logo

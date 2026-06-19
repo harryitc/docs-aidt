@@ -1,3 +1,7 @@
+---
+description: Hướng dẫn sử dụng cổng sinh viên & đào tạo HUTECH — đăng ký môn học, xem thời khóa biểu, kết quả học tập và tra cứu học phí.
+---
+
 # Cổng sinh viên & Đào tạo
 
 Cổng sinh viên là nơi tập trung các **dịch vụ học vụ trực tuyến**: đăng ký môn học, xem thời khóa biểu, kết quả học tập, học phí và thông tin cá nhân.

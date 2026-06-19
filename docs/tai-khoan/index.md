@@ -1,3 +1,7 @@
+---
+description: Hướng dẫn về tài khoản HUTECH ID — tài khoản đăng nhập một lần (SSO) dùng chung cho email, LMS, cổng sinh viên và đào tạo của HUTECH.
+---
+
 # Tài khoản HUTECH ID
 
 **HUTECH ID** là tài khoản định danh duy nhất giúp bạn đăng nhập (SSO — đăng nhập một lần) vào tất cả hệ thống công nghệ thông tin của trường: email, LMS, cổng sinh viên, cổng đào tạo…

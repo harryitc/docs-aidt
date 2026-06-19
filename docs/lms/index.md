@@ -1,3 +1,7 @@
+---
+description: Hướng dẫn sử dụng hệ thống LMS của HUTECH — truy cập khóa học, tải tài liệu, nộp bài tập và làm bài kiểm tra trực tuyến.
+---
+
 # Hệ thống LMS
 
 **LMS (Learning Management System)** là hệ thống quản lý học tập trực tuyến của HUTECH — nơi bạn xem khóa học, tải tài liệu, nộp bài tập và làm bài kiểm tra.
