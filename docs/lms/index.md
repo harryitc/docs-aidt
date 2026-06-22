@@ -1,30 +1,24 @@
 ---
 title: Hệ thống LMS (Canvas)
-description: "Hướng dẫn sử dụng hệ thống Canvas LMS của AIDT – HUTECH: truy cập khóa học, tải tài liệu, nộp bài tập và làm bài kiểm tra trực tuyến."
+description: "Hướng dẫn sử dụng hệ thống Canvas LMS của AIDT – HUTECH cho sinh viên và giảng viên: truy cập khóa học, tải tài liệu, nộp bài, tạo khóa học, chấm điểm."
 ---
 
 # Hệ thống LMS (Canvas)
 
-**Canvas LMS (Learning Management System)** là hệ thống quản lý học tập trực tuyến do **AIDT – HUTECH** triển khai — nơi bạn xem khóa học, tải tài liệu, nộp bài tập và làm bài kiểm tra.
+**Canvas LMS (Learning Management System)** là hệ thống quản lý học tập trực tuyến do **AIDT – HUTECH** triển khai — nơi tổ chức khóa học, tài liệu, bài tập và kiểm tra trực tuyến.
 
 ## Truy cập
 
 - Địa chỉ: hệ thống **Canvas LMS** theo đường dẫn được AIDT cung cấp.
 - Đăng nhập bằng **tài khoản** được cấp.
 
-## Bạn có thể làm gì trên Canvas?
+## Chọn tài liệu theo vai trò
 
-- 📚 Xem danh sách **khóa học** theo học kỳ.
-- 📂 Tải **tài liệu, bài giảng** của giảng viên.
-- 📝 **Nộp bài tập** và xem điểm.
-- ✅ Làm **bài kiểm tra / trắc nghiệm** trực tuyến.
-- 💬 Trao đổi qua **diễn đàn** lớp học.
+Tài liệu được chia theo đối tượng sử dụng. Hãy chọn nhóm hướng dẫn phù hợp với bạn:
 
-## Nội dung trong mục này
-
-- [Truy cập khóa học](/lms/truy-cap-khoa-hoc)
-- [Nộp bài & làm kiểm tra](/lms/nop-bai)
+- 🎓 **[Dành cho Sinh viên](/lms/sinh-vien/)** — truy cập khóa học, tải tài liệu, nộp bài và làm kiểm tra.
+- 👩‍🏫 **[Dành cho Giảng viên](/lms/giang-vien/)** — tạo khóa học, đăng tài liệu, ra bài tập/kiểm tra, chấm điểm và quản lý lớp.
 
 ::: tip
-Khóa học chỉ xuất hiện sau khi bạn đã được **ghi danh (enroll)** vào lớp. Nếu thiếu khóa học, hãy [liên hệ hỗ trợ](/lien-he/).
+Khóa học chỉ xuất hiện sau khi tài khoản đã được **ghi danh (enroll)** vào lớp. Nếu thiếu khóa học, hãy [liên hệ hỗ trợ](/lien-he/).
 :::

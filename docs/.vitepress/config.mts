@@ -129,12 +129,31 @@ export default defineConfig({
     sidebar: {
       '/lms/': [
         {
-          text: 'Hỗ trợ — Hệ thống LMS (Canvas)',
-          collapsed: false,
+          text: 'Hệ thống LMS (Canvas)',
           items: [
             { text: 'Giới thiệu', link: '/lms/' },
-            { text: 'Truy cập khóa học', link: '/lms/truy-cap-khoa-hoc' },
-            { text: 'Nộp bài & kiểm tra', link: '/lms/nop-bai' },
+          ],
+        },
+        {
+          text: 'Dành cho Sinh viên',
+          collapsed: false,
+          items: [
+            { text: 'Giới thiệu', link: '/lms/sinh-vien/' },
+            { text: 'Truy cập khóa học', link: '/lms/sinh-vien/truy-cap-khoa-hoc' },
+            { text: 'Nộp bài & kiểm tra', link: '/lms/sinh-vien/nop-bai' },
+          ],
+        },
+        {
+          text: 'Dành cho Giảng viên',
+          collapsed: false,
+          items: [
+            { text: 'Giới thiệu', link: '/lms/giang-vien/' },
+            { text: 'Tạo & xuất bản khóa học', link: '/lms/giang-vien/tao-khoa-hoc' },
+            { text: 'Đăng bài giảng & tài liệu', link: '/lms/giang-vien/dang-tai-lieu' },
+            { text: 'Tạo bài tập', link: '/lms/giang-vien/tao-bai-tap' },
+            { text: 'Tạo bài kiểm tra / trắc nghiệm', link: '/lms/giang-vien/tao-bai-kiem-tra' },
+            { text: 'Chấm điểm & phản hồi', link: '/lms/giang-vien/cham-diem' },
+            { text: 'Quản lý sinh viên & ghi danh', link: '/lms/giang-vien/quan-ly-sinh-vien' },
           ],
         },
       ],
