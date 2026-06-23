@@ -16,7 +16,7 @@ Cần hỗ trợ về **Canvas LMS** hoặc các hệ thống của **AIDT**? Vu
 | <Icon name="landmark" /> Đơn vị | Viện Trí tuệ Nhân tạo và Chuyển đổi số (AIDT) – HUTECH |
 
 ::: info Giờ làm việc
-Thứ Hai – Thứ Sáu: 8:00 – 17:00 (trừ ngày lễ).
+Thứ Hai – Thứ Sáu: 8:00 – 16:00 (trừ ngày lễ).
 :::
 
 ## Khi liên hệ, vui lòng cung cấp
