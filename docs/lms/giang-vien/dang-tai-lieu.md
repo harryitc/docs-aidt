@@ -14,12 +14,14 @@ Sau khi vào [lớp giảng dạy](/lms/giang-vien/truy-cap-lop), Thầy/Cô có
 
 ## Tải tệp tài liệu lên
 
-1. Trong lớp, chọn mục **Tệp (Files)** ở thanh điều hướng bên trái.
+1. Trong lớp, chọn mục **Tập tin (Files)** ở thanh điều hướng bên trái.
+
+   ![Mục Tập tin trên thanh điều hướng](/images/lms/gv-files-menu.png)
+
 2. Nhấn **Tải lên (Upload)** hoặc **kéo–thả** tệp vào khung.
-
-   <!-- ![Tải tệp tài liệu lên lớp học](/images/lms/gv-upload-file.png) -->
-
 3. Chờ tệp tải xong; có thể tạo **thư mục** để sắp xếp tài liệu theo chủ đề.
+
+   ![Trang Tập tin với nút Tải lên và tệp đã tải lên](/images/lms/gv-upload-file.png)
 
 ## Soạn bài giảng dạng Trang
 
