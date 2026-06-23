@@ -17,18 +17,20 @@ const html = computed(() => svgIcon(props.name, props.size))
 </script>
 
 <template>
-  <span class="vp-icon" v-html="html" />
+  <span class="aidt-icon" v-html="html" />
 </template>
 
 <style scoped>
-.vp-icon {
+/* Đặt tên class riêng (KHÔNG dùng "vp-icon" — VitePress đã chiếm class này cho
+   hệ icon mask của nó, sẽ tô đặc thành ô vuông và che mất SVG). */
+.aidt-icon {
   display: inline-flex;
   align-items: center;
   justify-content: center;
   vertical-align: -0.18em;
   margin-right: 0.15em;
 }
-.vp-icon :deep(svg) {
+.aidt-icon :deep(svg) {
   flex-shrink: 0;
 }
 </style>
