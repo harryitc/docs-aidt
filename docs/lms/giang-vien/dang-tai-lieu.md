@@ -1,24 +1,49 @@
 ---
 title: Đăng bài giảng & tài liệu
-description: "Hướng dẫn giảng viên đăng tải bài giảng, tài liệu lên khóa học Canvas LMS."
+description: "Hướng dẫn giảng viên đăng bài giảng và tài liệu lên lớp học trên Canvas LMS – HUTECH: tải tệp, soạn trang nội dung và tổ chức theo mô-đun."
 ---
 
 # Đăng bài giảng & tài liệu
 
-> <Icon name="construction" /> *Nội dung đang được biên soạn.*
+Sau khi vào [lớp giảng dạy](/lms/giang-vien/truy-cap-lop), Thầy/Cô có thể tải tài liệu, soạn bài giảng và sắp xếp nội dung để sinh viên theo dõi.
 
-## Tải tệp lên (Files)
+::: tip Trước khi bắt đầu
+- Vào đúng **lớp** cần đăng tài liệu.
+- Chuẩn bị sẵn các **tệp** (slide, giáo trình, file PDF, video...) cần tải lên.
+:::
 
-<!-- TODO: cách tải tài liệu lên kho Files của khóa học -->
+## Tải tệp tài liệu lên
 
-## Tạo trang nội dung (Pages)
+1. Trong lớp, chọn mục **Tệp (Files)** ở thanh điều hướng bên trái.
+2. Nhấn **Tải lên (Upload)** hoặc **kéo–thả** tệp vào khung.
 
-<!-- TODO: soạn bài giảng dạng trang -->
+   <!-- ![Tải tệp tài liệu lên lớp học](/images/lms/gv-upload-file.png) -->
 
-## Tổ chức theo Module (tuần/chủ đề)
+3. Chờ tệp tải xong; có thể tạo **thư mục** để sắp xếp tài liệu theo chủ đề.
 
-<!-- TODO: gom tài liệu, bài tập vào Module -->
+## Soạn bài giảng dạng Trang
+
+1. Chọn mục **Trang (Pages)** ở thanh điều hướng.
+2. Nhấn **+ Trang** để tạo trang mới, nhập **tiêu đề** và **nội dung** bài giảng.
+3. Dùng trình soạn thảo để chèn **văn bản, hình ảnh, liên kết, tệp đính kèm** hoặc nhúng video.
+
+   <!-- ![Soạn bài giảng dạng trang](/images/lms/gv-create-page.png) -->
+
+4. Nhấn **Lưu & Xuất bản** để sinh viên có thể xem.
+
+## Tổ chức nội dung theo Mô-đun
+
+1. Chọn mục **Mô-đun (Các chương)** ở thanh điều hướng.
+2. Tạo **mô-đun** theo tuần/chủ đề, rồi thêm **tài liệu, trang, bài tập, bài kiểm tra** vào từng mô-đun.
+
+   <!-- ![Tổ chức nội dung theo mô-đun](/images/lms/gv-module.png) -->
+
+3. Sắp xếp thứ tự các mục để tạo **lộ trình học** rõ ràng.
+
+::: warning Nhớ xuất bản
+Tài liệu, trang hay mô-đun chỉ hiển thị với sinh viên sau khi được **xuất bản (Publish)** — biểu tượng dấu ✓ màu xanh. Mục chưa xuất bản (biểu tượng ⦸) sinh viên sẽ không thấy.
+:::
 
 ::: tip
-Sắp xếp nội dung theo **Module** giúp sinh viên theo dõi lộ trình học rõ ràng hơn.
+Sắp xếp nội dung theo **Mô-đun** giúp sinh viên theo dõi lộ trình học rõ ràng hơn.
 :::

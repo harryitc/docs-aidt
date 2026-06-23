@@ -149,7 +149,7 @@ export default defineConfig({
           collapsed: true,
           items: [
             { text: 'Giới thiệu', link: '/lms/giang-vien/' },
-            { text: 'Tạo & xuất bản khóa học', link: '/lms/giang-vien/tao-khoa-hoc' },
+            { text: 'Truy cập lớp giảng dạy', link: '/lms/giang-vien/truy-cap-lop' },
             { text: 'Đăng bài giảng & tài liệu', link: '/lms/giang-vien/dang-tai-lieu' },
             { text: 'Tạo bài tập', link: '/lms/giang-vien/tao-bai-tap' },
             { text: 'Tạo bài kiểm tra / trắc nghiệm', link: '/lms/giang-vien/tao-bai-kiem-tra' },

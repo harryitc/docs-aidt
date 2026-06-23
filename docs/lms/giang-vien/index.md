@@ -9,7 +9,7 @@ Hướng dẫn sử dụng **Canvas LMS** dành cho giảng viên trong việc t
 
 ## Thầy/Cô có thể làm gì trên Canvas?
 
-- <Icon name="hammer" /> **Tạo và xuất bản khóa học** theo học kỳ.
+- <Icon name="book-open" /> **Truy cập các lớp** được phân công giảng dạy.
 - <Icon name="folder" /> **Đăng bài giảng, tài liệu** cho sinh viên.
 - <Icon name="file-text" /> **Ra bài tập (Assignment)** và thu bài.
 - <Icon name="check-circle" /> **Tạo bài kiểm tra / trắc nghiệm (Quiz)**.
@@ -18,7 +18,7 @@ Hướng dẫn sử dụng **Canvas LMS** dành cho giảng viên trong việc t
 
 ## Nội dung hướng dẫn
 
-- [Tạo & xuất bản khóa học](/lms/giang-vien/tao-khoa-hoc)
+- [Truy cập lớp giảng dạy](/lms/giang-vien/truy-cap-lop)
 - [Đăng bài giảng & tài liệu](/lms/giang-vien/dang-tai-lieu)
 - [Tạo bài tập](/lms/giang-vien/tao-bai-tap)
 - [Tạo bài kiểm tra / trắc nghiệm](/lms/giang-vien/tao-bai-kiem-tra)
