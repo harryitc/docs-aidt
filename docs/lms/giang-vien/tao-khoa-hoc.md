@@ -5,7 +5,7 @@ description: "Hướng dẫn giảng viên tạo và xuất bản khóa học tr
 
 # Tạo & xuất bản khóa học
 
-> 🚧 *Nội dung đang được biên soạn.*
+> <Icon name="construction" /> *Nội dung đang được biên soạn.*
 
 ## Tạo khóa học
 

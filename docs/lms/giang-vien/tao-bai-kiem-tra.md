@@ -5,7 +5,7 @@ description: "Hướng dẫn giảng viên tạo bài kiểm tra, trắc nghiệ
 
 # Tạo bài kiểm tra / trắc nghiệm (Quiz)
 
-> 🚧 *Nội dung đang được biên soạn.*
+> <Icon name="construction" /> *Nội dung đang được biên soạn.*
 
 ## Tạo bài kiểm tra mới
 

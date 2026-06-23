@@ -25,13 +25,14 @@ AIDT vận hành **hai hệ thống** phục vụ những đối tượng khác 
 
 - Truy cập đúng đường dẫn hệ thống ở bảng trên.
 - Đăng nhập bằng **tài khoản** được cấp.
+- Quên mật khẩu? Xem hướng dẫn [lấy lại mật khẩu](/lms/quen-mat-khau).
 
 ## Tài liệu theo vai trò
 
 Tài liệu hướng dẫn được chia theo đối tượng sử dụng:
 
-- 🎓 **[Dành cho Sinh viên](/lms/sinh-vien/)** — truy cập khóa học, tải tài liệu, nộp bài và làm kiểm tra.
-- 👩‍🏫 **[Dành cho Giảng viên](/lms/giang-vien/)** — tạo khóa học, đăng tài liệu, ra bài tập/kiểm tra, chấm điểm và quản lý lớp.
+- <Icon name="graduation-cap" /> **[Dành cho Sinh viên](/lms/sinh-vien/)** — truy cập khóa học, tải tài liệu, nộp bài và làm kiểm tra.
+- <Icon name="presentation" /> **[Dành cho Giảng viên](/lms/giang-vien/)** — tạo khóa học, đăng tài liệu, ra bài tập/kiểm tra, chấm điểm và quản lý lớp.
 
 ::: info Cần hỗ trợ?
 Nếu không đăng nhập được, thiếu khóa học hoặc gặp sự cố, hãy [liên hệ với AIDT](/lien-he/).

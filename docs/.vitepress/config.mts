@@ -1,6 +1,6 @@
 import { defineConfig } from 'vitepress'
 
-// ⚙️ Đổi domain này thành tên miền thật khi triển khai (dùng cho SEO: sitemap, canonical, Open Graph)
+// Đổi domain này thành tên miền thật khi triển khai (dùng cho SEO: sitemap, canonical, Open Graph)
 const SITE_URL = 'https://docs-lms.vercel.app'
 const OG_IMAGE = `${SITE_URL}/logo.png` // ảnh chia sẻ mạng xã hội (thay bằng og-image.png 1200x630 để đẹp hơn)
 
@@ -132,6 +132,7 @@ export default defineConfig({
           text: 'Hệ thống LMS (Canvas)',
           items: [
             { text: 'Giới thiệu', link: '/lms/' },
+            { text: 'Quên mật khẩu', link: '/lms/quen-mat-khau' },
           ],
         },
         {

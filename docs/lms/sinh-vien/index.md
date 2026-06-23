@@ -9,11 +9,11 @@ Hướng dẫn sử dụng **Canvas LMS** dành cho sinh viên trong quá trình
 
 ## Bạn có thể làm gì trên Canvas?
 
-- 📚 Xem danh sách **khóa học** theo học kỳ.
-- 📂 Tải **tài liệu, bài giảng** của giảng viên.
-- 📝 **Nộp bài tập** và xem điểm.
-- ✅ Làm **bài kiểm tra / trắc nghiệm** trực tuyến.
-- 💬 Trao đổi qua **diễn đàn** lớp học.
+- <Icon name="book-open" /> Xem danh sách **khóa học** theo học kỳ.
+- <Icon name="folder" /> Tải **tài liệu, bài giảng** của giảng viên.
+- <Icon name="file-text" /> **Nộp bài tập** và xem điểm.
+- <Icon name="check-circle" /> Làm **bài kiểm tra / trắc nghiệm** trực tuyến.
+- <Icon name="message-circle" /> Trao đổi qua **diễn đàn** lớp học.
 
 ## Nội dung hướng dẫn
 

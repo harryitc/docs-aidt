@@ -5,7 +5,7 @@ description: "Hướng dẫn giảng viên đăng tải bài giảng, tài liệ
 
 # Đăng bài giảng & tài liệu
 
-> 🚧 *Nội dung đang được biên soạn.*
+> <Icon name="construction" /> *Nội dung đang được biên soạn.*
 
 ## Tải tệp lên (Files)
 

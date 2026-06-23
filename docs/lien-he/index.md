@@ -11,9 +11,9 @@ Cần hỗ trợ về **Canvas LMS** hoặc các hệ thống của **AIDT**? Vu
 
 | Kênh | Thông tin |
 | --- | --- |
-| 📧 Email | [aidt@hutech.edu.vn](mailto:aidt@hutech.edu.vn) |
-| ☎️ Tổng đài | [(028) 5445 2222](tel:02854452222) |
-| 🏛️ Đơn vị | Viện Trí tuệ Nhân tạo và Chuyển đổi số (AIDT) – HUTECH |
+| <Icon name="mail" /> Email | [aidt@hutech.edu.vn](mailto:aidt@hutech.edu.vn) |
+| <Icon name="phone" /> Tổng đài | [(028) 5445 2222](tel:02854452222) |
+| <Icon name="landmark" /> Đơn vị | Viện Trí tuệ Nhân tạo và Chuyển đổi số (AIDT) – HUTECH |
 
 ::: info Giờ làm việc
 Thứ Hai – Thứ Sáu: 8:00 – 17:00 (trừ ngày lễ).
@@ -25,4 +25,4 @@ Thứ Hai – Thứ Sáu: 8:00 – 17:00 (trừ ngày lễ).
 - **Hệ thống** gặp sự cố (ví dụ: Canvas LMS).
 - **Mô tả lỗi** và ảnh chụp màn hình (nếu có) để được hỗ trợ nhanh hơn.
 
-> ⚠️ Thông tin email/điện thoại ở trên là **placeholder** — hãy cập nhật theo thông tin chính thức của AIDT.
+> <Icon name="alert-triangle" /> Thông tin email/điện thoại ở trên là **placeholder** — hãy cập nhật theo thông tin chính thức của AIDT.

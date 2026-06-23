@@ -5,7 +5,7 @@ description: "Hướng dẫn giảng viên chấm điểm, phản hồi bài là
 
 # Chấm điểm & phản hồi
 
-> 🚧 *Nội dung đang được biên soạn.*
+> <Icon name="construction" /> *Nội dung đang được biên soạn.*
 
 ## Sử dụng SpeedGrader
 

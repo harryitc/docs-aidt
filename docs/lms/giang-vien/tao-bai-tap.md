@@ -5,7 +5,7 @@ description: "Hướng dẫn giảng viên tạo bài tập (Assignment) và thu
 
 # Tạo bài tập (Assignment)
 
-> 🚧 *Nội dung đang được biên soạn.*
+> <Icon name="construction" /> *Nội dung đang được biên soạn.*
 
 ## Tạo bài tập mới
 
