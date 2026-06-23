@@ -25,13 +25,21 @@ Sau khi vào [lớp giảng dạy](/lms/giang-vien/truy-cap-lop), Thầy/Cô có
 
 ## Soạn bài giảng dạng Trang
 
-1. Chọn mục **Trang (Pages)** ở thanh điều hướng.
-2. Nhấn **+ Trang** để tạo trang mới, nhập **tiêu đề** và **nội dung** bài giảng.
-3. Dùng trình soạn thảo để chèn **văn bản, hình ảnh, liên kết, tệp đính kèm** hoặc nhúng video.
+1. Chọn mục **Các trang (Pages)** ở thanh điều hướng.
 
-   <!-- ![Soạn bài giảng dạng trang](/images/lms/gv-create-page.png) -->
+   ![Mục Các trang trên thanh điều hướng](/images/lms/gv-pages-menu.png)
 
-4. Nhấn **Lưu & Xuất bản** để sinh viên có thể xem.
+2. Nhấn **+ Trang nội dung** để tạo trang mới.
+
+   ![Trang Các trang với nút Trang nội dung](/images/lms/gv-pages-empty.png)
+
+3. Nhập **tiêu đề** và soạn **nội dung** bài giảng bằng trình soạn thảo (chèn văn bản, hình ảnh, liên kết, tệp đính kèm hoặc nhúng video), rồi **Lưu**.
+
+   ![Trang bài giảng đã được tạo](/images/lms/gv-page-created.png)
+
+4. **Công bố (Publish)** trang để sinh viên có thể xem — biểu tượng chuyển thành dấu ✓ "Đã công bố".
+
+   ![Trạng thái Đã công bố của trang](/images/lms/gv-page-publish.png)
 
 ## Tổ chức nội dung theo Mô-đun
 
