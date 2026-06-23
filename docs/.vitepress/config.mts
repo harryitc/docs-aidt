@@ -136,7 +136,7 @@ export default defineConfig({
         },
         {
           text: 'Dành cho Sinh viên',
-          collapsed: false,
+          collapsed: true,
           items: [
             { text: 'Giới thiệu', link: '/lms/sinh-vien/' },
             { text: 'Truy cập khóa học', link: '/lms/sinh-vien/truy-cap-khoa-hoc' },
@@ -145,7 +145,7 @@ export default defineConfig({
         },
         {
           text: 'Dành cho Giảng viên',
-          collapsed: false,
+          collapsed: true,
           items: [
             { text: 'Giới thiệu', link: '/lms/giang-vien/' },
             { text: 'Tạo & xuất bản khóa học', link: '/lms/giang-vien/tao-khoa-hoc' },
