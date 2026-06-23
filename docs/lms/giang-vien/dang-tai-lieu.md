@@ -41,19 +41,32 @@ Sau khi vào [lớp giảng dạy](/lms/giang-vien/truy-cap-lop), Thầy/Cô có
 
    ![Trạng thái Đã công bố của trang](/images/lms/gv-page-publish.png)
 
-## Tổ chức nội dung theo Mô-đun
+## Tổ chức nội dung theo chương
 
-1. Chọn mục **Mô-đun (Các chương)** ở thanh điều hướng.
-2. Tạo **mô-đun** theo tuần/chủ đề, rồi thêm **tài liệu, trang, bài tập, bài kiểm tra** vào từng mô-đun.
+1. Chọn mục **Các chương** ở thanh điều hướng.
 
-   <!-- ![Tổ chức nội dung theo mô-đun](/images/lms/gv-module.png) -->
+   ![Mục Các chương trên thanh điều hướng](/images/lms/gv-modules-menu.png)
 
-3. Sắp xếp thứ tự các mục để tạo **lộ trình học** rõ ràng.
+2. Nhấn **+ Chương**, nhập **Tên chương**; nếu cần có thể đặt **Điều kiện tiên quyết** (phải hoàn thành chương trước mới mở chương sau), rồi nhấn **Thêm chương**.
 
-::: warning Nhớ xuất bản
-Tài liệu, trang hay mô-đun chỉ hiển thị với sinh viên sau khi được **xuất bản (Publish)** — biểu tượng dấu ✓ màu xanh. Mục chưa xuất bản (biểu tượng ⦸) sinh viên sẽ không thấy.
+   ![Chương với các mục nội dung](/images/lms/gv-module-content.png)
+
+   <img src="/images/lms/gv-module-add.png" alt="Hộp thoại Thêm chương" width="320" />
+
+3. Thêm nội dung vào chương: nhấn **+** hoặc **kéo–thả tập tin** vào chương để thêm **slide, tài liệu, trang, bài tập, bài kiểm tra**.
+
+   ![Thêm mục vào chương](/images/lms/gv-module-additem.png)
+
+4. Sắp xếp thứ tự các chương và các mục bên trong để tạo **lộ trình học** rõ ràng.
+
+5. **Phát hành** chương để sinh viên có thể xem — chọn **Phát hành chương và tất cả các mục** từ menu trạng thái.
+
+   ![Phát hành chương và các mục](/images/lms/gv-module-publish.png)
+
+::: warning Nhớ phát hành
+Tài liệu, trang hay chương chỉ hiển thị với sinh viên sau khi được **phát hành (Publish)** — biểu tượng dấu ✓ màu xanh. Mục chưa phát hành (biểu tượng ⦸) sinh viên sẽ không thấy.
 :::
 
 ::: tip
-Sắp xếp nội dung theo **Mô-đun** giúp sinh viên theo dõi lộ trình học rõ ràng hơn.
+Sắp xếp nội dung theo **chương** giúp sinh viên theo dõi lộ trình học rõ ràng hơn.
 :::
