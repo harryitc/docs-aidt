@@ -24,35 +24,35 @@ Lớp chỉ xuất hiện trên Bảng điều khiển **sau khi Thầy/Cô đã
 
 ## Các bước
 
-1. Đăng nhập hệ thống **Canvas LMS** bằng tài khoản được cấp.
+**Bước 1:** Đăng nhập hệ thống **Canvas LMS** bằng tài khoản được cấp.
 
-   ![Đăng nhập tài khoản Canvas LMS](/images/lms/gv-login.png)
+![Đăng nhập tài khoản Canvas LMS](/images/lms/gv-login.png)
 
-2. Tại **Bảng điều khiển**, Thầy/Cô sẽ thấy danh sách các **lớp** được phân công giảng dạy.
+**Bước 2:** Tại **Bảng điều khiển**, Thầy/Cô sẽ thấy danh sách các **lớp** được phân công giảng dạy.
 
-   ![Bảng điều khiển hiển thị danh sách lớp giảng dạy](/images/lms/gv-dashboard.png)
+![Bảng điều khiển hiển thị danh sách lớp giảng dạy](/images/lms/gv-dashboard.png)
 
-3. Nhấn vào **tên lớp** để vào lớp.
+**Bước 3:** Nhấn vào **tên lớp** để vào lớp.
 
-   ![Nhấn vào lớp để vào](/images/lms/gv-class-enter.png)
+![Nhấn vào lớp để vào](/images/lms/gv-class-enter.png)
 
-4. Trong lớp, dùng **thanh điều hướng** bên trái để di chuyển giữa các mục: Trang chủ, Bài tập, Điểm, Thành viên, Các chương...
+**Bước 4:** Trong lớp, dùng **thanh điều hướng** bên trái để di chuyển giữa các mục: Trang chủ, Bài tập, Điểm, Thành viên, Các chương...
 
-   ![Thanh điều hướng trong lớp giảng dạy](/images/lms/gv-class-nav.png)
+![Thanh điều hướng trong lớp giảng dạy](/images/lms/gv-class-nav.png)
 
 ## Xem toàn bộ lớp
 
 Nếu Bảng điều khiển không hiển thị đủ, Thầy/Cô có thể xem **tất cả lớp học phần**:
 
-1. Vào menu **Lớp học phần** ở thanh điều hướng bên trái, chọn **Tất cả các lớp học phần**.
+**Bước 1:** Vào menu **Lớp học phần** ở thanh điều hướng bên trái, chọn **Tất cả các lớp học phần**.
 
-   ![Menu Lớp học phần với mục Tất cả các lớp học phần](/images/lms/gv-all-course-menu.png)
+![Menu Lớp học phần với mục Tất cả các lớp học phần](/images/lms/gv-all-course-menu.png)
 
-2. Danh sách đầy đủ các lớp học phần sẽ hiển thị.
+**Bước 2:** Danh sách đầy đủ các lớp học phần sẽ hiển thị.
 
-   ![Danh sách tất cả lớp học phần](/images/lms/gv-all-course.png)
+![Danh sách tất cả lớp học phần](/images/lms/gv-all-course.png)
 
-3. Nhấn **biểu tượng ngôi sao** để **đánh dấu** lớp hay dùng — lớp được đánh dấu sẽ hiển thị nhanh ở Bảng điều khiển.
+**Bước 3:** Nhấn **biểu tượng ngôi sao** để **đánh dấu** lớp hay dùng — lớp được đánh dấu sẽ hiển thị nhanh ở Bảng điều khiển.
 
 ::: tip
 **Đánh dấu sao** các lớp đang giảng dạy để truy cập nhanh, tránh phải tìm lại trong danh sách đầy đủ.

@@ -190,9 +190,6 @@ export default defineConfig({
       },
     },
 
-    footer: {
-      message: 'Viện Trí tuệ Nhân tạo và Chuyển đổi số (AIDT) — HUTECH',
-      copyright: 'Copyright © 2026 AIDT – HUTECH',
-    },
+    // Footer mặc định của VitePress đã được thay bằng SiteFooter.vue (slot layout-bottom)
   },
 })
