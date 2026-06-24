@@ -16,7 +16,10 @@ Trên hệ thống **Canvas LMS**, bộ phận **Đào tạo** sẽ tạo các l
 
 Khi bộ phận Đào tạo tạo lớp và phân công Thầy/Cô phụ trách, hệ thống sẽ gửi **email thông báo** đến địa chỉ email của Thầy/Cô, kèm các lớp sẽ giảng dạy. Thầy/Cô có thể nhấn liên kết trong email để vào thẳng lớp.
 
-![Email thông báo lớp được phân công giảng dạy](/images/lms/gv-class-notify.png)
+<figure>
+  <img src="/images/lms/gv-class-notify.png" alt="Email thông báo lớp được phân công giảng dạy">
+  <figcaption>Hình 1: Email thông báo lớp được phân công giảng dạy.</figcaption>
+</figure>
 
 ::: tip
 Lớp chỉ xuất hiện trên Bảng điều khiển **sau khi Thầy/Cô đã được phân công**. Nếu chưa nhận được thông báo hoặc thiếu lớp, hãy [liên hệ bộ phận Đào tạo / hỗ trợ AIDT](/lien-he/).
@@ -26,19 +29,23 @@ Lớp chỉ xuất hiện trên Bảng điều khiển **sau khi Thầy/Cô đã
 
 **Bước 1:** Đăng nhập hệ thống **Canvas LMS** bằng tài khoản được cấp.
 
-![Đăng nhập tài khoản Canvas LMS](/images/lms/gv-login.png)
 
 **Bước 2:** Tại **Bảng điều khiển**, Thầy/Cô sẽ thấy danh sách các **lớp** được phân công giảng dạy.
 
-![Bảng điều khiển hiển thị danh sách lớp giảng dạy](/images/lms/gv-dashboard.png)
+<figure>
+  <img src="/images/lms/gv-dashboard.png" alt="Bảng điều khiển hiển thị danh sách lớp giảng dạy">
+  <figcaption>Hình 2: Bảng điều khiển hiển thị danh sách lớp giảng dạy.</figcaption>
+</figure>
 
 **Bước 3:** Nhấn vào **tên lớp** để vào lớp.
 
-![Nhấn vào lớp để vào](/images/lms/gv-class-enter.png)
 
 **Bước 4:** Trong lớp, dùng **thanh điều hướng** bên trái để di chuyển giữa các mục: Trang chủ, Bài tập, Điểm, Thành viên, Các chương...
 
-![Thanh điều hướng trong lớp giảng dạy](/images/lms/gv-class-nav.png)
+<figure>
+  <img src="/images/lms/gv-class-enter.png" alt="Giao diện lớp với thanh điều hướng bên trái">
+  <figcaption>Hình 3: Giao diện lớp với thanh điều hướng các mục ở bên trái.</figcaption>
+</figure>
 
 ## Xem toàn bộ lớp
 
@@ -46,13 +53,20 @@ Nếu Bảng điều khiển không hiển thị đủ, Thầy/Cô có thể xem
 
 **Bước 1:** Vào menu **Lớp học phần** ở thanh điều hướng bên trái, chọn **Tất cả các lớp học phần**.
 
-![Menu Lớp học phần với mục Tất cả các lớp học phần](/images/lms/gv-all-course-menu.png)
+<figure>
+  <img src="/images/lms/gv-all-course-menu.png" alt="Menu Lớp học phần với mục Tất cả các lớp học phần">
+  <figcaption>Hình 4: Menu Lớp học phần với mục Tất cả các lớp học phần.</figcaption>
+</figure>
 
 **Bước 2:** Danh sách đầy đủ các lớp học phần sẽ hiển thị.
 
-![Danh sách tất cả lớp học phần](/images/lms/gv-all-course.png)
 
 **Bước 3:** Nhấn **biểu tượng ngôi sao** để **đánh dấu** lớp hay dùng — lớp được đánh dấu sẽ hiển thị nhanh ở Bảng điều khiển.
+
+<figure>
+  <img src="/images/lms/gv-all-course.png" alt="Danh sách tất cả lớp học phần">
+  <figcaption>Hình 5: Danh sách tất cả lớp học phần.</figcaption>
+</figure>
 
 ::: tip
 **Đánh dấu sao** các lớp đang giảng dạy để truy cập nhanh, tránh phải tìm lại trong danh sách đầy đủ.
