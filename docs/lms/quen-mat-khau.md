@@ -5,7 +5,7 @@ description: "Hướng dẫn lấy lại mật khẩu khi đăng nhập Canvas L
 
 # Quên mật khẩu
 
-Hướng dẫn lấy lại quyền truy cập khi bạn **quên mật khẩu** đăng nhập **Canvas LMS**. Quy trình áp dụng cho cả **sinh viên** và **giảng viên**.
+Hướng dẫn lấy lại quyền truy cập khi bạn **quên mật khẩu** đăng nhập **Canvas LMS**.
 
 ::: tip Trước khi bắt đầu
 - Truy cập đúng hệ thống: **[lms.hutech.online](https://lms.hutech.online)**.

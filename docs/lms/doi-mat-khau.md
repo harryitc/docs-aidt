@@ -5,8 +5,7 @@ description: "Hướng dẫn đổi mật khẩu khi đã đăng nhập Canvas L
 
 # Đổi mật khẩu
 
-Hướng dẫn **đổi mật khẩu** khi bạn **đã đăng nhập** vào **Canvas LMS** và muốn đặt mật khẩu mới (ví dụ: mật khẩu cũ dễ đoán, nghi ngờ bị lộ, hoặc đổi định kỳ cho an toàn). Quy trình áp dụng cho cả **sinh viên** và **giảng viên**.
-
+Hướng dẫn **đổi mật khẩu** khi bạn **đã đăng nhập** vào **Canvas LMS** và muốn đặt mật khẩu mới (ví dụ: mật khẩu cũ dễ đoán, nghi ngờ bị lộ, hoặc đổi định kỳ cho an toàn).
 ::: tip Trước khi bắt đầu
 - Bạn cần **nhớ mật khẩu hiện tại** để xác nhận. Nếu đã quên, hãy xem [hướng dẫn lấy lại mật khẩu](/lms/quen-mat-khau).
 - Truy cập đúng hệ thống: **[lms.hutech.online](https://lms.hutech.online)**.
