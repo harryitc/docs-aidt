@@ -14,9 +14,24 @@ const links = [
 ]
 
 const socials = [
-  { name: 'Facebook', link: 'https://www.facebook.com/hutechuniversity' },
-  { name: 'YouTube', link: 'https://www.youtube.com/@hutechchannel' },
-  { name: 'Website', link: 'https://www.hutech.edu.vn' },
+  {
+    name: 'Facebook',
+    link: 'https://www.facebook.com/hutechuniversity',
+    color: '#1877f2',
+    icon: '<path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"/>',
+  },
+  {
+    name: 'YouTube',
+    link: 'https://www.youtube.com/@hutechchannel',
+    color: '#ff0000',
+    icon: '<path d="M2.5 17a24.12 24.12 0 0 1 0-10 2 2 0 0 1 1.4-1.4 49.56 49.56 0 0 1 16.2 0A2 2 0 0 1 21.5 7a24.12 24.12 0 0 1 0 10 2 2 0 0 1-1.4 1.4 49.55 49.55 0 0 1-16.2 0A2 2 0 0 1 2.5 17"/><path d="m10 15 5-3-5-3z"/>',
+  },
+  {
+    name: 'Website',
+    link: 'https://www.hutech.edu.vn',
+    color: '#0a6bd4',
+    icon: '<circle cx="12" cy="12" r="10"/><path d="M2 12h20"/><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/>',
+  },
 ]
 </script>
 
@@ -66,9 +81,12 @@ const socials = [
         <!-- Cột 4: Theo dõi -->
         <div class="sf-col">
           <h3 class="sf-heading">Theo dõi</h3>
-          <ul class="sf-list">
-            <li v-for="s in socials" :key="s.name">
-              <a :href="s.link" target="_blank" rel="noopener">{{ s.name }}</a>
+          <ul class="sf-list sf-social">
+            <li v-for="s in socials" :key="s.name" :style="{ '--sf-social-color': s.color }">
+              <a :href="s.link" target="_blank" rel="noopener" :aria-label="s.name">
+                <span class="sf-social-icon" v-html="`<svg viewBox='0 0 24 24' aria-hidden='true'>${s.icon}</svg>`" />
+                <span>{{ s.name }}</span>
+              </a>
             </li>
           </ul>
         </div>
@@ -187,6 +205,30 @@ const socials = [
   stroke-width: 1.8;
   stroke-linecap: round;
   stroke-linejoin: round;
+}
+
+/* ----- Mạng xã hội (icon nét viền, đồng bộ kiểu cột Liên hệ) ----- */
+.sf-social a {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+}
+.sf-social-icon {
+  display: inline-flex;
+  flex-shrink: 0;
+}
+.sf-social-icon :deep(svg) {
+  width: 17px;
+  height: 17px;
+  fill: none;
+  stroke: var(--sf-social-color);
+  stroke-width: 1.8;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  transition: stroke 0.2s;
+}
+.sf-social a:hover span {
+  color: var(--sf-social-color);
 }
 
 /* ----- Thanh bản quyền ----- */
