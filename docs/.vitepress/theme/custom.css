@@ -236,6 +236,30 @@
   }
 }
 
+/* ----- Hình minh hoạ kèm chú thích (caption) ----- */
+.vp-doc figure {
+  /* Gắn ảnh với bước phía trên (margin trên nhỏ), tách rộng với bước sau */
+  margin: 0.75rem 0 2rem;
+  text-align: center;
+}
+.vp-doc figure img {
+  display: block;
+  margin: 0 auto;
+  border-radius: 8px;
+}
+
+/* Mọi hình ảnh trong nội dung mặc định có viền */
+.vp-doc img {
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 8px;
+}
+.vp-doc figcaption {
+  margin-top: 0.35rem;
+  font-size: 0.875rem;
+  font-style: italic;
+  color: var(--vp-c-text-2);
+}
+
 /* Logo brand HUTECH (dạng ngang) — tăng chiều cao cho dễ đọc trên navbar */
 .VPNavBarTitle .logo {
   height: 53px;
