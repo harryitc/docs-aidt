@@ -142,7 +142,6 @@ export default defineConfig({
           items: [
             { text: 'Giới thiệu', link: '/lms/sinh-vien/' },
             { text: 'Truy cập khóa học', link: '/lms/sinh-vien/truy-cap-khoa-hoc' },
-            { text: 'Nộp bài tập', link: '/lms/sinh-vien/nop-bai' },
             { text: 'Làm bài kiểm tra / trắc nghiệm', link: '/lms/sinh-vien/lam-bai-kiem-tra' },
             { text: 'Làm bài thi', link: '/lms/sinh-vien/lam-bai-thi' },
           ],

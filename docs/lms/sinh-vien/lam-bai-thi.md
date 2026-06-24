@@ -1,36 +1,47 @@
 ---
 title: Làm bài thi
-description: "Hướng dẫn sinh viên làm bài thi trực tuyến trong khóa học trên Canvas LMS – HUTECH."
+description: "Hướng dẫn sinh viên làm bài thi có giám sát trên Canvas LMS – HUTECH: thời gian làm bài, quy định giám sát và các bước thực hiện."
 ---
 
 # Làm bài thi
 
-Hướng dẫn sinh viên **làm bài thi** trực tuyến trên **Canvas LMS**. Bài thi thường có **giới hạn thời gian**, **chỉ làm một lần** và phải hoàn thành trong khung giờ cho phép.
+Trên **Canvas LMS**, bài thi thường là **bài thi có giám sát**: **giới hạn thời gian**, **hết giờ tự động nộp** và áp dụng các **quy định nghiêm ngặt** trong lúc làm bài.
 
-> **Nội dung nháp** — cần rà soát lại theo quy định thi thực tế của HUTECH (giám sát, thiết bị, xử lý sự cố...).
+## Quy định khi thi có giám sát
+
+Trong suốt thời gian làm bài thi có giám sát, bạn **không được**:
+
+- **Chuyển tab** sang trang khác.
+- **Thoát toàn màn hình**.
+- **Sao chép / dán (copy/paste)** nội dung.
+
+::: warning Vi phạm quy định
+**Vi phạm quá 3 lần** các quy định trên, bài thi sẽ **bị tự động nộp**. Khi **hết giờ**, hệ thống cũng **tự động nộp** phần đã làm.
+:::
 
 ## Chuẩn bị trước khi thi
 
 - Kiểm tra **đường truyền mạng** ổn định và **thiết bị** (pin, trình duyệt) hoạt động tốt.
+- Đóng các **tab/ứng dụng** không cần thiết để tránh vi phạm khi đang thi.
 - Xác nhận đúng **thời gian mở đề** và **thời lượng** làm bài.
-- Chuẩn bị sẵn **giấy tờ/thông tin** theo yêu cầu của giảng viên (nếu có).
 
 ## Các bước làm bài thi
 
-**Bước 1:** Vào khóa học → chọn **bài thi** trong khung giờ cho phép.
+**Bước 1:** Vào khóa học → mở **bài thi** trong khung giờ cho phép.
 
-**Bước 2:** Đọc kỹ **hướng dẫn**, **thời lượng** và **số lần làm** (thường chỉ **một lần**).
+**Bước 2:** Đọc kỹ **thời gian làm bài** và **quy định giám sát** hiển thị trên màn hình.
 
 **Bước 3:** Nhấn **Bắt đầu làm bài**. Đồng hồ đếm ngược bắt đầu chạy.
 
-**Bước 4:** Trả lời lần lượt các câu hỏi — hệ thống **tự lưu** theo thời gian.
+<figure>
+  <img src="/images/lms/sv-exam.png" alt="Màn hình bắt đầu bài thi có giám sát">
+  <figcaption>Hình 1: Thông tin thời gian và quy định trước khi bắt đầu bài thi.</figcaption>
+</figure>
 
-**Bước 5:** Nhấn **Nộp tất cả và kết thúc** trước khi hết giờ.
+**Bước 4:** Trả lời lần lượt các câu hỏi, **giữ nguyên màn hình làm bài** và không vi phạm các quy định giám sát.
 
-<!-- ![Làm bài thi](/images/lms/sv-exam.png) -->
+**Bước 5:** Nhấn **Nộp bài** trước khi hết giờ (nếu hết giờ, hệ thống tự động nộp).
 
-::: warning Lưu ý quan trọng
-- Bài thi thường **không cho làm lại** — cân nhắc kỹ trước khi nộp.
-- Khi **hết giờ**, hệ thống **tự động nộp** phần đã làm.
-- Nếu **mất kết nối**, đăng nhập lại ngay và liên hệ giảng viên/[hỗ trợ](/lien-he/) nếu không vào lại được.
+::: tip
+Giữ kết nối ổn định trong suốt thời gian thi. Nếu mất kết nối, đăng nhập lại ngay và liên hệ giảng viên / [hỗ trợ](/lien-he/) nếu không vào lại được.
 :::

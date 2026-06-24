@@ -266,3 +266,19 @@
   width: auto;
   max-width: none;
 }
+
+/* ----- Footer toàn site (SiteFooter.vue) ----- */
+/* Trang chủ: không để vùng nội dung giãn (flex-grow) đẩy footer xuống đáy màn hình
+   tạo khoảng trống trắng lớn — cho footer nằm ngay sau nội dung. */
+/* Tăng specificity (thêm .Layout) để thắng rule scoped
+   .VPContent[data-v-xxx]{flex-grow:1} của VitePress. */
+.Layout .VPContent.is-home {
+  flex-grow: 0;
+}
+/* Bỏ margin-bottom 128px của VPHome (rule scoped .VPHome[data-v-xxx]) để nền
+   trang chủ nối thẳng vào footer, tránh dải trắng xen giữa làm lệch màu.
+   Cần tăng specificity (.Layout .VPContent) mới thắng được rule scoped đó.
+   Footer đã có sẵn padding trên 48px nên vẫn thoáng. */
+.Layout .VPContent .VPHome {
+  margin-bottom: 0;
+}

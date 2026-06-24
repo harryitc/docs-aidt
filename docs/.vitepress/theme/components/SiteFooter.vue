@@ -3,6 +3,11 @@
    Bố cục 4 cột: Thương hiệu · Liên kết · Liên hệ · Theo dõi, kèm thanh bản quyền.
    Hiển thị ở mọi trang qua slot `layout-bottom` trong theme/index.ts. */
 import { withBase } from 'vitepress'
+import { useLayout } from 'vitepress/theme'
+
+// Chỉ hiển thị footer ở trang chủ & các trang thường (không có sidebar).
+// Trong các trang tài liệu (có sidebar) thì ẩn footer để giao diện gọn, không vướng sidebar.
+const { hasSidebar } = useLayout()
 
 const year = new Date().getFullYear()
 
@@ -36,7 +41,7 @@ const socials = [
 </script>
 
 <template>
-  <footer class="site-footer">
+  <footer v-if="!hasSidebar" class="site-footer">
     <div class="site-footer__inner">
       <div class="site-footer__grid">
         <!-- Cột 1: Thương hiệu -->
@@ -45,7 +50,7 @@ const socials = [
           <p class="sf-brand-name">Viện Trí tuệ Nhân tạo và Chuyển đổi số (AIDT)</p>
           <p class="sf-brand-sub">Trường Đại học Công nghệ TP.HCM (HUTECH)</p>
           <p class="sf-brand-desc">
-            Trung tâm hỗ trợ &amp; hướng dẫn sử dụng hệ thống học tập trực tuyến Canvas LMS.
+            Trung tâm hỗ trợ &amp; tài liệu hướng dẫn cho các hệ thống và ứng dụng số của Viện AIDT.
           </p>
         </div>
 
@@ -102,6 +107,10 @@ const socials = [
 
 <style scoped>
 .site-footer {
+  position: relative;
+  /* Phủ lên phần dưới của sidebar cố định (z-index 25) để footer trải full-width
+     trên trang tài liệu mà không bị che cột trái. */
+  z-index: 30;
   border-top: 1px solid var(--vp-c-divider);
   background: var(--vp-c-bg-alt);
 }
