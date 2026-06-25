@@ -122,7 +122,7 @@ export default defineConfig({
           { text: 'Hệ thống LMS (Canvas)', link: '/lms/' },
         ],
       },
-      { text: 'Hệ thống AIDT', link: '/he-thong-aidt/' },
+      { text: 'Hệ thống AIDT', link: 'https://aidt.hutech.edu.vn/' },
       { text: 'Liên hệ', link: '/lien-he/' },
     ],
 

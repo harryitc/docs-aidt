@@ -14,9 +14,13 @@ const year = new Date().getFullYear()
 const links = [
   { text: 'Trang chủ', link: '/' },
   { text: 'Hệ thống LMS (Canvas)', link: '/lms/' },
-  { text: 'Hệ thống AIDT', link: '/he-thong-aidt/' },
+  { text: 'Hệ thống AIDT', link: 'https://aidt.hutech.edu.vn/' },
   { text: 'Liên hệ', link: '/lien-he/' },
 ]
+
+// Link ngoài (http/https) giữ nguyên URL; link nội bộ mới gắn base của site.
+const isExternal = (link: string) => /^https?:\/\//.test(link)
+const hrefFor = (link: string) => (isExternal(link) ? link : withBase(link))
 
 const socials = [
   {
@@ -59,7 +63,11 @@ const socials = [
           <h3 class="sf-heading">Liên kết</h3>
           <ul class="sf-list">
             <li v-for="item in links" :key="item.link">
-              <a :href="withBase(item.link)">{{ item.text }}</a>
+              <a
+                :href="hrefFor(item.link)"
+                :target="isExternal(item.link) ? '_blank' : undefined"
+                :rel="isExternal(item.link) ? 'noopener' : undefined"
+              >{{ item.text }}</a>
             </li>
           </ul>
         </nav>
@@ -70,7 +78,7 @@ const socials = [
           <ul class="sf-list sf-contact">
             <li>
               <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 21s-7-5.686-7-11a7 7 0 0 1 14 0c0 5.314-7 11-7 11Z"/><circle cx="12" cy="10" r="2.5"/></svg>
-              <span>475A Điện Biên Phủ, P.25, Q. Bình Thạnh, TP.HCM</span>
+              <span>Khu E HUTECH, 10/80C Song Hành, Xa lộ Hà Nội, Tăng Nhơn Phú, TP. Thủ Đức, TP.HCM</span>
             </li>
             <li>
               <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.8 19.8 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.8 19.8 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72c.13.96.36 1.9.7 2.81a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45c.9.34 1.85.57 2.81.7A2 2 0 0 1 22 16.92Z"/></svg>

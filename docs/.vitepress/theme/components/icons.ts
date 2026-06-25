@@ -64,6 +64,12 @@ export const ICONS: Record<string, string> = {
   // Đang thi công / biên soạn
   construction:
     '<rect x="2" y="6" width="20" height="8" rx="1"/><path d="M17 14v7"/><path d="M7 14v7"/><path d="M17 3v3"/><path d="M7 3v3"/><path d="M10 14 2.3 6.3"/><path d="m14 6 7.7 7.7"/><path d="m8 6 8 8"/>',
+  // Website / quả địa cầu
+  globe:
+    '<circle cx="12" cy="12" r="10"/><path d="M12 2a14.5 14.5 0 0 0 0 20 14.5 14.5 0 0 0 0-20"/><path d="M2 12h20"/>',
+  // Địa chỉ / ghim bản đồ
+  'map-pin':
+    '<path d="M20 10c0 6-8 12-8 12s-8-6-8-12a8 8 0 0 1 16 0Z"/><circle cx="12" cy="10" r="3"/>',
 }
 
 /** Trả về chuỗi <svg> hoàn chỉnh (kèm width/height) — dùng cho component <Icon>. */
