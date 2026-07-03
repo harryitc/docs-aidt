@@ -14,7 +14,9 @@ Trước khi tạo từng loại nội dung, Thầy/Cô cần biết **mở côn
 
 ## Mở công cụ H5P
 
-Công cụ H5P xuất hiện trong **khung soạn thảo nội dung** của các mục có trình soạn thảo (Bài tập, Trang, Thảo luận...). Nhấn biểu tượng **H5P** trên thanh công cụ, rồi chọn **H5P**.
+**Bước 1:** Tạo một bài tập mới (mục **Bài tập** → **+ Bài tập**) và nhập **Tên bài tập**. Công cụ H5P cũng dùng được ở các mục khác có trình soạn thảo như **Trang**, **Thảo luận**.
+
+**Bước 2:** Trong **khung soạn thảo nội dung**, nhấn biểu tượng **H5P** trên thanh công cụ, rồi chọn **H5P**.
 
 <figure>
   <img src="/images/lms/h5p/h5p-toolbar.png" alt="Nút H5P trên thanh công cụ soạn thảo">
