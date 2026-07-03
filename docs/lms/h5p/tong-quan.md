@@ -48,3 +48,4 @@ Một nội dung H5P đã tạo có thể được **chọn và giao lại** ở
 - [Tạo Tìm từ](/lms/h5p/tim-tu) — trò chơi tìm các từ ẩn trong lưới chữ cái.
 - [Tạo Thẻ ghi nhớ](/lms/h5p/flashcard) — bộ thẻ hình ảnh kèm câu hỏi và đáp án để ôn tập.
 - [Tạo Câu hỏi Đúng/Sai](/lms/h5p/question-yes-no) — câu hỏi Đúng/Sai đơn giản, có thể kèm hình ảnh.
+- [Tạo Đánh dấu từ](/lms/h5p/mark-correct-word) — đánh dấu các từ đúng trong đoạn văn để sinh viên nhấn chọn.

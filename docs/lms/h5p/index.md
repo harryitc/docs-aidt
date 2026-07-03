@@ -28,6 +28,7 @@ Nội dung H5P **hiển thị và chấm ngay** trên Canvas, giúp bài giảng
 - [Tạo Tìm từ](/lms/h5p/tim-tu)
 - [Tạo Thẻ ghi nhớ](/lms/h5p/flashcard)
 - [Tạo Câu hỏi Đúng/Sai](/lms/h5p/question-yes-no)
+- [Tạo Đánh dấu từ](/lms/h5p/mark-correct-word)
 
 ::: info Đang cập nhật
 Mục H5P sẽ tiếp tục được bổ sung hướng dẫn cho từng loại nội dung. Nếu cần hỗ trợ, hãy [liên hệ AIDT](/lien-he/).
