@@ -71,11 +71,18 @@ Sau khi thiết lập xong, nhấn **Lưu** để hoàn tất nội dung.
 
 ## Đưa nội dung vào bài tập
 
-Quay lại **Ngân hàng H5P**, nhấn **Chọn & Giao Bài** ở thẻ nội dung vừa tạo. Trò chơi Tìm từ được nhúng vào nội dung bài tập.
+**Bước 1:** Quay lại **Ngân hàng H5P**, nhấn **Chọn & Giao Bài** ở thẻ nội dung vừa tạo.
+
+<figure>
+  <img src="/images/lms/h5p/tim-tu/tim-tu-assign.png" alt="Ngân hàng H5P hiển thị nội dung Tìm từ với nút Chọn & Giao Bài">
+  <figcaption>Hình 6: Nội dung mới nằm trong Ngân hàng H5P, kèm nút Chọn & Giao Bài.</figcaption>
+</figure>
+
+**Bước 2:** Trò chơi Tìm từ được nhúng vào nội dung bài tập.
 
 <figure>
   <img src="/images/lms/h5p/tim-tu/tim-tu-embedded.png" alt="Trò chơi Tìm từ đã được nhúng vào nội dung bài tập">
-  <figcaption>Hình 6: Lưới chữ và danh sách từ hiển thị trong khung nội dung của bài tập.</figcaption>
+  <figcaption>Hình 7: Lưới chữ và danh sách từ hiển thị trong khung nội dung của bài tập.</figcaption>
 </figure>
 
 ## Thiết lập và công bố bài tập
@@ -86,5 +93,5 @@ Quay lại **Ngân hàng H5P**, nhấn **Chọn & Giao Bài** ở thẻ nội du
 
 <figure>
   <img src="/images/lms/h5p/tim-tu/tim-tu-published.png" alt="Bài tập Tìm từ đã được công bố">
-  <figcaption>Hình 7: Bài tập đã công bố, hiển thị trò chơi Tìm từ cho sinh viên.</figcaption>
+  <figcaption>Hình 8: Bài tập đã công bố, hiển thị trò chơi Tìm từ cho sinh viên.</figcaption>
 </figure>
