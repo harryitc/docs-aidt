@@ -1,11 +1,11 @@
 ---
 title: Tạo Video tương tác
-description: "Hướng dẫn giảng viên tạo nội dung H5P dạng Video tương tác trên Canvas LMS: nhúng video bài giảng và (tùy chọn) chèn câu hỏi vào video."
+description: "Hướng dẫn giảng viên tạo nội dung H5P dạng Video tương tác trên Canvas LMS: nhúng video bài giảng và chèn câu hỏi tương tác vào các mốc thời gian."
 ---
 
 # Tạo Video tương tác
 
-**Video tương tác (Interactive Video)** là loại nội dung H5P cho phép **nhúng video bài giảng** vào bài tập và **chèn câu hỏi** xen kẽ tại các mốc thời gian. Hướng dẫn dưới đây tạo ở mức cơ bản — nhúng video bài giảng; phần chèn câu hỏi là nâng cao, nêu ở cuối bài.
+**Video tương tác (Interactive Video)** là loại nội dung H5P cho phép **nhúng video bài giảng** vào bài tập và **chèn câu hỏi** xen kẽ tại các mốc thời gian, giúp sinh viên vừa xem vừa trả lời. Hướng dẫn dưới đây đi từ thêm video đến chèn câu hỏi tương tác và công bố bài tập.
 
 ::: tip Trước khi bắt đầu
 Chuẩn bị sẵn **video bài giảng** (tệp video hoặc đường dẫn YouTube/Vimeo) và các **câu hỏi** muốn chèn (nếu có). Xem trước [Tổng quan & Ngân hàng H5P](/lms/h5p/tong-quan) nếu chưa quen công cụ.
@@ -63,18 +63,73 @@ Cửa sổ **Ngân hàng H5P** hiện ra, gồm tab **Khóa học hiện tại**
   <figcaption>Hình 6: Hai cách thêm video — tải tệp lên hoặc dán liên kết YouTube/URL.</figcaption>
 </figure>
 
-## Lưu nội dung
-
-Sau khi video được nạp, nhấn **Lưu** để hoàn tất nội dung H5P. Ở mức cơ bản này, bài tập chỉ gồm **video bài giảng**, chưa chèn câu hỏi tương tác.
+**Bước 3:** Sau khi video được nạp, video hiển thị trong khung xem thử. Tiếp theo, chuyển sang bước chèn câu hỏi tương tác.
 
 <figure>
-  <img src="/images/lms/h5p/h5p-save.png" alt="Video đã thêm và nút Lưu nội dung H5P">
-  <figcaption>Hình 7: Video đã được thêm; nhấn Lưu để hoàn tất nội dung H5P.</figcaption>
+  <img src="/images/lms/h5p/h5p-save.png" alt="Video đã được thêm ở bước Upload/embed video">
+  <figcaption>Hình 7: Video đã được thêm ở bước Upload/embed video.</figcaption>
 </figure>
 
-::: tip Nâng cao (tùy chọn)
-Nếu muốn video có câu hỏi xen kẽ, Thầy/Cô có thể dùng **Step 2 – Add interactions** để chèn câu hỏi (trắc nghiệm, đúng/sai, điền khuyết...) vào các mốc thời gian, và **Step 3 – Summary task** để thêm câu hỏi tổng kết. Đây là phần nâng cao, không bắt buộc.
+## Chèn câu hỏi tương tác vào video
+
+Chuyển sang bước **Add interactions (Chèn tương tác)** — bước giữa trong trình chỉnh sửa Video tương tác. Đây là nơi Thầy/Cô chèn **câu hỏi** vào các mốc thời gian để sinh viên vừa xem vừa trả lời.
+
+### Chọn loại câu hỏi và mốc thời gian
+
+**Bước 1:** Tua video đến vị trí muốn chèn câu hỏi. Trên **thanh công cụ** phía trên video, chọn loại câu hỏi cần dùng — ví dụ **Bộ câu hỏi một lựa chọn**, **Trắc nghiệm nhiều lựa chọn**, **Đúng/Sai**, **Điền khuyết**...
+
+**Bước 2:** Trong cửa sổ thiết lập, chọn **Thời điểm hiển thị** (khoảng thời gian câu hỏi xuất hiện), tích **Tạm dừng video** để video dừng lại khi hỏi, và chọn **Hiển thị dưới dạng**:
+
+- **Nút** — tương tác thu gọn, người xem nhấn để mở.
+- **Áp phích** — tương tác mở rộng, hiện trực tiếp trên video.
+
+<figure>
+  <img src="/images/lms/h5p/h5p-interaction-time.png" alt="Chọn mốc thời gian và kiểu hiển thị cho câu hỏi tương tác">
+  <figcaption>Hình 8: Chọn mốc thời gian hiển thị và kiểu hiển thị (Nút hoặc Áp phích) cho câu hỏi.</figcaption>
+</figure>
+
+### Nhập câu hỏi và phương án
+
+Nhập nội dung **Câu hỏi** và các **Phương án** trả lời. Với **Bộ câu hỏi một lựa chọn**, **phương án đầu tiên là đáp án đúng** — hệ thống sẽ tự xáo trộn thứ tự khi hiển thị cho sinh viên.
+
+<figure>
+  <img src="/images/lms/h5p/h5p-interaction-question.png" alt="Nhập câu hỏi và các phương án trả lời">
+  <figcaption>Hình 9: Nhập nội dung câu hỏi và các phương án; phương án đầu tiên là đáp án đúng.</figcaption>
+</figure>
+
+::: tip Thiết lập hành vi (tùy chọn)
+Ở mục **Thiết lập hành vi**, Thầy/Cô có thể bật/tắt **Tự động chuyển tiếp**, nút **Làm lại**, nút **Hiện đáp án**, cùng **Tỉ lệ phần trăm để đạt**.
+
+<figure>
+  <img src="/images/lms/h5p/h5p-interaction-behavior.png" alt="Thiết lập hành vi cho câu hỏi tương tác">
+  <figcaption>Hình 10: Các tùy chọn hành vi cho câu hỏi — không bắt buộc chỉnh sửa.</figcaption>
+</figure>
 :::
+
+### Hoàn tất câu hỏi
+
+**Bước 1:** Nhấn **Xong** để lưu câu hỏi vừa tạo.
+
+<figure>
+  <img src="/images/lms/h5p/h5p-interaction-done.png" alt="Nút Xong để hoàn tất câu hỏi tương tác">
+  <figcaption>Hình 11: Nhấn Xong để lưu câu hỏi vừa tạo.</figcaption>
+</figure>
+
+**Bước 2:** Câu hỏi được gắn lên video tại mốc thời gian đã chọn. Lặp lại các bước trên để chèn thêm câu hỏi ở những mốc khác.
+
+<figure>
+  <img src="/images/lms/h5p/h5p-interaction-added.png" alt="Câu hỏi tương tác hiển thị trên video tại mốc thời gian đã chọn">
+  <figcaption>Hình 12: Câu hỏi đã được gắn lên video và hiển thị tại mốc thời gian đã chọn.</figcaption>
+</figure>
+
+## Lưu nội dung
+
+Sau khi chèn xong các câu hỏi, nhấn **Lưu** để lưu toàn bộ nội dung H5P — gồm **video** và các **câu hỏi tương tác**.
+
+<figure>
+  <img src="/images/lms/h5p/h5p-interaction-save.png" alt="Nút Lưu để lưu toàn bộ nội dung video và câu hỏi">
+  <figcaption>Hình 13: Nhấn Lưu để lưu toàn bộ nội dung gồm video và các câu hỏi tương tác.</figcaption>
+</figure>
 
 ## Đưa nội dung vào bài tập
 
@@ -82,14 +137,14 @@ Nếu muốn video có câu hỏi xen kẽ, Thầy/Cô có thể dùng **Step 2 
 
 <figure>
   <img src="/images/lms/h5p/h5p-assign.png" alt="Ngân hàng H5P hiển thị nội dung mới với nút Chọn & Giao Bài">
-  <figcaption>Hình 8: Nội dung mới nằm trong Ngân hàng H5P, kèm nút Chọn & Giao Bài.</figcaption>
+  <figcaption>Hình 14: Nội dung mới nằm trong Ngân hàng H5P, kèm nút Chọn & Giao Bài.</figcaption>
 </figure>
 
 **Bước 2:** Video tương tác được nhúng vào nội dung bài tập.
 
 <figure>
   <img src="/images/lms/h5p/h5p-embedded.png" alt="Video tương tác đã được nhúng vào nội dung bài tập">
-  <figcaption>Hình 9: Video tương tác hiển thị trong khung nội dung của bài tập.</figcaption>
+  <figcaption>Hình 15: Video tương tác hiển thị trong khung nội dung của bài tập.</figcaption>
 </figure>
 
 ## Thiết lập và công bố bài tập
@@ -98,12 +153,19 @@ Nếu muốn video có câu hỏi xen kẽ, Thầy/Cô có thể dùng **Step 2 
 
 <figure>
   <img src="/images/lms/h5p/h5p-settings.png" alt="Thiết lập điểm, loại bài nộp và ngày đến hạn của bài tập">
-  <figcaption>Hình 10: Các thiết lập điểm, loại bài nộp và phạm vi giao bài.</figcaption>
+  <figcaption>Hình 16: Các thiết lập điểm, loại bài nộp và phạm vi giao bài.</figcaption>
 </figure>
 
 **Bước 2:** Nhấn **Lưu & Công bố**. Bài tập chuyển sang trạng thái **Đã công bố**; Thầy/Cô có thể nhấn **Xem với tư cách sinh viên** để kiểm tra trải nghiệm.
 
 <figure>
   <img src="/images/lms/h5p/h5p-published.png" alt="Bài tập Video tương tác đã được công bố">
-  <figcaption>Hình 11: Bài tập đã công bố, hiển thị video bài giảng cho sinh viên.</figcaption>
+  <figcaption>Hình 17: Bài tập đã công bố, hiển thị video bài giảng cho sinh viên.</figcaption>
+</figure>
+
+**Bước 3:** Trong chế độ **Xem với tư cách sinh viên**, câu hỏi tương tác sẽ xuất hiện đúng mốc thời gian trong video để sinh viên trả lời.
+
+<figure>
+  <img src="/images/lms/h5p/h5p-student-view.png" alt="Câu hỏi tương tác xuất hiện trong video khi xem với tư cách sinh viên">
+  <figcaption>Hình 18: Xem với tư cách sinh viên — câu hỏi tương tác xuất hiện đúng mốc thời gian trong video.</figcaption>
 </figure>
