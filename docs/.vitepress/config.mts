@@ -168,6 +168,7 @@ export default defineConfig({
             { text: 'Tổng quan & Ngân hàng H5P', link: '/lms/h5p/tong-quan' },
             { text: 'Tạo Video tương tác', link: '/lms/h5p/video-tuong-tac' },
             { text: 'Tạo Tìm điểm nóng', link: '/lms/h5p/single-hotspot' },
+            { text: 'Tạo Tìm từ', link: '/lms/h5p/tim-tu' },
           ],
         },
       ],
