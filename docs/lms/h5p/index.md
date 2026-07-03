@@ -26,6 +26,7 @@ Nội dung H5P **hiển thị và chấm ngay** trên Canvas, giúp bài giảng
 - [Tạo Video tương tác](/lms/h5p/video-tuong-tac)
 - [Tạo Tìm điểm nóng](/lms/h5p/single-hotspot)
 - [Tạo Tìm từ](/lms/h5p/tim-tu)
+- [Tạo Thẻ ghi nhớ](/lms/h5p/flashcard)
 
 ::: info Đang cập nhật
 Mục H5P sẽ tiếp tục được bổ sung hướng dẫn cho từng loại nội dung. Nếu cần hỗ trợ, hãy [liên hệ AIDT](/lien-he/).
