@@ -64,13 +64,18 @@ Mở mục cấu hình để tinh chỉnh trò chơi:
 
 Sau khi thiết lập xong, nhấn **Lưu** để hoàn tất nội dung.
 
+<figure>
+  <img src="/images/lms/h5p/tim-tu/tim-tu-save.png" alt="Nhấn Lưu để hoàn tất nội dung Tìm từ">
+  <figcaption>Hình 5: Nhấn Lưu để lưu nội dung trò chơi Tìm từ.</figcaption>
+</figure>
+
 ## Đưa nội dung vào bài tập
 
 Quay lại **Ngân hàng H5P**, nhấn **Chọn & Giao Bài** ở thẻ nội dung vừa tạo. Trò chơi Tìm từ được nhúng vào nội dung bài tập.
 
 <figure>
   <img src="/images/lms/h5p/tim-tu/tim-tu-embedded.png" alt="Trò chơi Tìm từ đã được nhúng vào nội dung bài tập">
-  <figcaption>Hình 5: Lưới chữ và danh sách từ hiển thị trong khung nội dung của bài tập.</figcaption>
+  <figcaption>Hình 6: Lưới chữ và danh sách từ hiển thị trong khung nội dung của bài tập.</figcaption>
 </figure>
 
 ## Thiết lập và công bố bài tập
@@ -81,5 +86,5 @@ Quay lại **Ngân hàng H5P**, nhấn **Chọn & Giao Bài** ở thẻ nội du
 
 <figure>
   <img src="/images/lms/h5p/tim-tu/tim-tu-published.png" alt="Bài tập Tìm từ đã được công bố">
-  <figcaption>Hình 6: Bài tập đã công bố, hiển thị trò chơi Tìm từ cho sinh viên.</figcaption>
+  <figcaption>Hình 7: Bài tập đã công bố, hiển thị trò chơi Tìm từ cho sinh viên.</figcaption>
 </figure>
