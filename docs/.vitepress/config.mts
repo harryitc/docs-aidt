@@ -167,6 +167,7 @@ export default defineConfig({
             { text: 'Giới thiệu', link: '/lms/h5p/' },
             { text: 'Tổng quan & Ngân hàng H5P', link: '/lms/h5p/tong-quan' },
             { text: 'Tạo Video tương tác', link: '/lms/h5p/video-tuong-tac' },
+            { text: 'Tạo Find Multiple Hotspots', link: '/lms/h5p/find-multiple-hotspots' },
           ],
         },
       ],
