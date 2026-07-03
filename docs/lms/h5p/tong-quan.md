@@ -44,4 +44,4 @@ Một nội dung H5P đã tạo có thể được **chọn và giao lại** ở
 ## Bước tiếp theo
 
 - [Tạo Video tương tác](/lms/h5p/video-tuong-tac) — chèn video bài giảng (và tùy chọn câu hỏi xen kẽ) vào bài tập.
-- [Tạo Find Multiple Hotspots](/lms/h5p/find-multiple-hotspots) — đánh dấu các vùng đúng trên ảnh để sinh viên tìm.
+- [Tạo Tìm điểm nóng](/lms/h5p/single-hotspot) — đặt ảnh và đánh dấu điểm đúng để sinh viên tìm.
