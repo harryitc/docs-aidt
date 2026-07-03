@@ -153,7 +153,7 @@ Sau khi chèn xong các câu hỏi, nhấn **Lưu** để lưu toàn bộ nội 
   <figcaption>Hình 15: Các thiết lập điểm, loại bài nộp và phạm vi giao bài.</figcaption>
 </figure>
 
-**Bước 2:** Nhấn **Lưu & Công bố**. Bài tập chuyển sang trạng thái **Đã công bố**; Thầy/Cô có thể nhấn **Xem với tư cách sinh viên** để kiểm tra trải nghiệm (xem ảnh kết quả ở đầu bài).
+**Bước 2:** Nhấn **Lưu & Công bố**. Bài tập chuyển sang trạng thái **Đã công bố**; Thầy/Cô có thể nhấn **Xem với tư cách sinh viên** để kiểm tra trải nghiệm.
 
 <figure>
   <img src="/images/lms/h5p/h5p-published.png" alt="Bài tập Video tương tác đã được công bố">
