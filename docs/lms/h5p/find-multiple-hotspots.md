@@ -7,6 +7,10 @@ description: "Hướng dẫn giảng viên tạo nội dung H5P dạng Find Mult
 
 **Find Multiple Hotspots (Tìm nhiều điểm nóng)** là loại nội dung H5P dạng **câu hỏi có chấm điểm**: giảng viên đặt một **hình ảnh** và đánh dấu **các vùng đúng**; sinh viên phải **nhấn tìm đủ các điểm đúng** trên ảnh. Phù hợp với các bài yêu cầu nhận diện — ví dụ chỉ ra các bộ phận trên sơ đồ, các đối tượng trong hình.
 
+<figure>
+  <img src="/images/lms/h5p/h5p-hotspot-result.png" alt="Sinh viên nhấn tìm đúng điểm trên ảnh và nhận phản hồi đúng">
+</figure>
+
 ::: tip Trước khi bắt đầu
 Chuẩn bị sẵn một **hình ảnh** rõ ràng, có sẵn các đối tượng cần tìm, và xác định trước **những vùng nào là đáp án đúng**. Xem trước [Tổng quan & Ngân hàng H5P](/lms/h5p/tong-quan) nếu chưa quen công cụ.
 :::
