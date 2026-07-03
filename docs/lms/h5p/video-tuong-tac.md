@@ -7,6 +7,10 @@ description: "Hướng dẫn giảng viên tạo nội dung H5P dạng Video tư
 
 **Video tương tác (Interactive Video)** là loại nội dung H5P cho phép **nhúng video bài giảng** vào bài tập và **chèn câu hỏi** xen kẽ tại các mốc thời gian, giúp sinh viên vừa xem vừa trả lời. Hướng dẫn dưới đây đi từ thêm video đến chèn câu hỏi tương tác và công bố bài tập.
 
+<figure>
+  <img src="/images/lms/h5p/h5p-student-view.png" alt="Câu hỏi tương tác xuất hiện trong video bài giảng khi sinh viên xem">
+</figure>
+
 ::: tip Trước khi bắt đầu
 Chuẩn bị sẵn **video bài giảng** (tệp video hoặc đường dẫn YouTube/Vimeo) và các **câu hỏi** muốn chèn (nếu có). Xem trước [Tổng quan & Ngân hàng H5P](/lms/h5p/tong-quan) nếu chưa quen công cụ.
 :::
@@ -149,16 +153,9 @@ Sau khi chèn xong các câu hỏi, nhấn **Lưu** để lưu toàn bộ nội 
   <figcaption>Hình 15: Các thiết lập điểm, loại bài nộp và phạm vi giao bài.</figcaption>
 </figure>
 
-**Bước 2:** Nhấn **Lưu & Công bố**. Bài tập chuyển sang trạng thái **Đã công bố**; Thầy/Cô có thể nhấn **Xem với tư cách sinh viên** để kiểm tra trải nghiệm.
+**Bước 2:** Nhấn **Lưu & Công bố**. Bài tập chuyển sang trạng thái **Đã công bố**; Thầy/Cô có thể nhấn **Xem với tư cách sinh viên** để kiểm tra trải nghiệm (xem ảnh kết quả ở đầu bài).
 
 <figure>
   <img src="/images/lms/h5p/h5p-published.png" alt="Bài tập Video tương tác đã được công bố">
   <figcaption>Hình 16: Bài tập đã công bố, hiển thị video bài giảng cho sinh viên.</figcaption>
-</figure>
-
-**Bước 3:** Trong chế độ **Xem với tư cách sinh viên**, câu hỏi tương tác sẽ xuất hiện đúng mốc thời gian trong video để sinh viên trả lời.
-
-<figure>
-  <img src="/images/lms/h5p/h5p-student-view.png" alt="Câu hỏi tương tác xuất hiện trong video khi xem với tư cách sinh viên">
-  <figcaption>Hình 17: Xem với tư cách sinh viên — câu hỏi tương tác xuất hiện đúng mốc thời gian trong video.</figcaption>
 </figure>
