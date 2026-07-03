@@ -120,6 +120,7 @@ export default defineConfig({
         text: 'Hỗ trợ',
         items: [
           { text: 'Hệ thống LMS (Canvas)', link: '/lms/' },
+          { text: 'Công cụ H5P', link: '/lms/h5p/' },
         ],
       },
       { text: 'Hệ thống AIDT', link: 'https://aidt.hutech.edu.vn/' },
@@ -157,6 +158,15 @@ export default defineConfig({
             { text: 'Tạo bài kiểm tra / trắc nghiệm', link: '/lms/giang-vien/tao-bai-kiem-tra' },
             { text: 'Chấm điểm & phản hồi', link: '/lms/giang-vien/cham-diem' },
             { text: 'Quản lý sinh viên & ghi danh', link: '/lms/giang-vien/quan-ly-sinh-vien' },
+          ],
+        },
+        {
+          text: 'Công cụ H5P',
+          collapsed: true,
+          items: [
+            { text: 'Giới thiệu', link: '/lms/h5p/' },
+            { text: 'Tổng quan & Ngân hàng H5P', link: '/lms/h5p/tong-quan' },
+            { text: 'Tạo Video tương tác', link: '/lms/h5p/video-tuong-tac' },
           ],
         },
       ],
