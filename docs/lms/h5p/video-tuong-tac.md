@@ -99,12 +99,19 @@ Nhập nội dung **Câu hỏi** và các **Phương án** trả lời. Với **
   <figcaption>Hình 9: Nhập nội dung câu hỏi và các phương án; phương án đầu tiên là đáp án đúng.</figcaption>
 </figure>
 
+Có thể nhấn **Thêm câu hỏi** để bổ sung nhiều câu trong cùng một tương tác; mục **Phản hồi tổng hợp** cho phép đặt lời nhận xét theo từng khoảng điểm.
+
+<figure>
+  <img src="/images/lms/h5p/h5p-interaction-questionlist.png" alt="Danh sách câu hỏi với nút Thêm câu hỏi và mục Phản hồi tổng hợp">
+  <figcaption>Hình 10: Danh sách câu hỏi, nút Thêm câu hỏi và mục Phản hồi tổng hợp theo khoảng điểm.</figcaption>
+</figure>
+
 ::: tip Thiết lập hành vi (tùy chọn)
 Ở mục **Thiết lập hành vi**, Thầy/Cô có thể bật/tắt **Tự động chuyển tiếp**, nút **Làm lại**, nút **Hiện đáp án**, cùng **Tỉ lệ phần trăm để đạt**.
 
 <figure>
   <img src="/images/lms/h5p/h5p-interaction-behavior.png" alt="Thiết lập hành vi cho câu hỏi tương tác">
-  <figcaption>Hình 10: Các tùy chọn hành vi cho câu hỏi — không bắt buộc chỉnh sửa.</figcaption>
+  <figcaption>Hình 11: Các tùy chọn hành vi cho câu hỏi — không bắt buộc chỉnh sửa.</figcaption>
 </figure>
 :::
 
@@ -114,14 +121,14 @@ Nhập nội dung **Câu hỏi** và các **Phương án** trả lời. Với **
 
 <figure>
   <img src="/images/lms/h5p/h5p-interaction-done.png" alt="Nút Xong để hoàn tất câu hỏi tương tác">
-  <figcaption>Hình 11: Nhấn Xong để lưu câu hỏi vừa tạo.</figcaption>
+  <figcaption>Hình 12: Nhấn Xong để lưu câu hỏi vừa tạo.</figcaption>
 </figure>
 
 **Bước 2:** Câu hỏi được gắn lên video tại mốc thời gian đã chọn. Lặp lại các bước trên để chèn thêm câu hỏi ở những mốc khác.
 
 <figure>
   <img src="/images/lms/h5p/h5p-interaction-added.png" alt="Câu hỏi tương tác hiển thị trên video tại mốc thời gian đã chọn">
-  <figcaption>Hình 12: Câu hỏi đã được gắn lên video và hiển thị tại mốc thời gian đã chọn.</figcaption>
+  <figcaption>Hình 13: Câu hỏi đã được gắn lên video và hiển thị tại mốc thời gian đã chọn.</figcaption>
 </figure>
 
 ## Lưu nội dung
@@ -130,7 +137,7 @@ Sau khi chèn xong các câu hỏi, nhấn **Lưu** để lưu toàn bộ nội 
 
 <figure>
   <img src="/images/lms/h5p/h5p-interaction-save.png" alt="Nút Lưu để lưu toàn bộ nội dung video và câu hỏi">
-  <figcaption>Hình 13: Nhấn Lưu để lưu toàn bộ nội dung gồm video và các câu hỏi tương tác.</figcaption>
+  <figcaption>Hình 14: Nhấn Lưu để lưu toàn bộ nội dung gồm video và các câu hỏi tương tác.</figcaption>
 </figure>
 
 ## Đưa nội dung vào bài tập
@@ -139,14 +146,14 @@ Sau khi chèn xong các câu hỏi, nhấn **Lưu** để lưu toàn bộ nội 
 
 <figure>
   <img src="/images/lms/h5p/h5p-assign.png" alt="Ngân hàng H5P hiển thị nội dung mới với nút Chọn & Giao Bài">
-  <figcaption>Hình 14: Nội dung mới nằm trong Ngân hàng H5P, kèm nút Chọn & Giao Bài.</figcaption>
+  <figcaption>Hình 15: Nội dung mới nằm trong Ngân hàng H5P, kèm nút Chọn & Giao Bài.</figcaption>
 </figure>
 
 **Bước 2:** Video tương tác được nhúng vào nội dung bài tập.
 
 <figure>
   <img src="/images/lms/h5p/h5p-embedded.png" alt="Video tương tác đã được nhúng vào nội dung bài tập">
-  <figcaption>Hình 15: Video tương tác hiển thị trong khung nội dung của bài tập.</figcaption>
+  <figcaption>Hình 16: Video tương tác hiển thị trong khung nội dung của bài tập.</figcaption>
 </figure>
 
 ## Thiết lập và công bố bài tập
@@ -155,12 +162,12 @@ Sau khi chèn xong các câu hỏi, nhấn **Lưu** để lưu toàn bộ nội 
 
 <figure>
   <img src="/images/lms/h5p/h5p-settings.png" alt="Thiết lập điểm, loại bài nộp và ngày đến hạn của bài tập">
-  <figcaption>Hình 16: Các thiết lập điểm, loại bài nộp và phạm vi giao bài.</figcaption>
+  <figcaption>Hình 17: Các thiết lập điểm, loại bài nộp và phạm vi giao bài.</figcaption>
 </figure>
 
 **Bước 2:** Nhấn **Lưu & Công bố**. Bài tập chuyển sang trạng thái **Đã công bố**; Thầy/Cô có thể nhấn **Xem với tư cách sinh viên** để kiểm tra trải nghiệm.
 
 <figure>
   <img src="/images/lms/h5p/h5p-published.png" alt="Bài tập Video tương tác đã được công bố">
-  <figcaption>Hình 17: Bài tập đã công bố, hiển thị video bài giảng cho sinh viên.</figcaption>
+  <figcaption>Hình 18: Bài tập đã công bố, hiển thị video bài giảng cho sinh viên.</figcaption>
 </figure>
