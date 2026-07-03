@@ -17,7 +17,7 @@ Trước khi tạo từng loại nội dung, Thầy/Cô cần biết **mở côn
 Công cụ H5P xuất hiện trong **khung soạn thảo nội dung** của các mục có trình soạn thảo (Bài tập, Trang, Thảo luận...). Nhấn biểu tượng **H5P** trên thanh công cụ, rồi chọn **H5P**.
 
 <figure>
-  <img src="/images/lms/gv-h5p-toolbar.png" alt="Nút H5P trên thanh công cụ soạn thảo">
+  <img src="/images/lms/h5p/h5p-toolbar.png" alt="Nút H5P trên thanh công cụ soạn thảo">
   <figcaption>Hình 1: Công cụ H5P nằm trên thanh công cụ của khung soạn thảo.</figcaption>
 </figure>
 
@@ -31,7 +31,7 @@ Cửa sổ **Ngân hàng H5P** là nơi lưu toàn bộ nội dung tương tác.
 Nhấn **+ Tạo Bài Tập Mới** để tạo một nội dung H5P mới.
 
 <figure>
-  <img src="/images/lms/gv-h5p-bank.png" alt="Cửa sổ Ngân hàng H5P với nút Tạo Bài Tập Mới">
+  <img src="/images/lms/h5p/h5p-bank.png" alt="Cửa sổ Ngân hàng H5P với nút Tạo Bài Tập Mới">
   <figcaption>Hình 2: Ngân hàng H5P lưu các nội dung của khóa học, kèm nút tạo nội dung mới.</figcaption>
 </figure>
 
