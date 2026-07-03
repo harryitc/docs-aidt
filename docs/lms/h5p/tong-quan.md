@@ -47,3 +47,4 @@ Một nội dung H5P đã tạo có thể được **chọn và giao lại** ở
 - [Tạo Tìm điểm nóng](/lms/h5p/single-hotspot) — đặt ảnh và đánh dấu điểm đúng để sinh viên tìm.
 - [Tạo Tìm từ](/lms/h5p/tim-tu) — trò chơi tìm các từ ẩn trong lưới chữ cái.
 - [Tạo Thẻ ghi nhớ](/lms/h5p/flashcard) — bộ thẻ hình ảnh kèm câu hỏi và đáp án để ôn tập.
+- [Tạo Câu hỏi Đúng/Sai](/lms/h5p/question-yes-no) — câu hỏi Đúng/Sai đơn giản, có thể kèm hình ảnh.

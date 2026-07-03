@@ -170,6 +170,7 @@ export default defineConfig({
             { text: 'Tạo Tìm điểm nóng', link: '/lms/h5p/single-hotspot' },
             { text: 'Tạo Tìm từ', link: '/lms/h5p/tim-tu' },
             { text: 'Tạo Thẻ ghi nhớ', link: '/lms/h5p/flashcard' },
+            { text: 'Tạo Câu hỏi Đúng/Sai', link: '/lms/h5p/question-yes-no' },
           ],
         },
       ],
