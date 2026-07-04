@@ -172,6 +172,7 @@ export default defineConfig({
             { text: 'Tạo Thẻ ghi nhớ', link: '/lms/h5p/flashcard' },
             { text: 'Tạo Câu hỏi Đúng/Sai', link: '/lms/h5p/question-yes-no' },
             { text: 'Tạo Đánh dấu từ', link: '/lms/h5p/mark-correct-word' },
+            { text: 'Tạo Ô chữ', link: '/lms/h5p/cross-word' },
           ],
         },
       ],
