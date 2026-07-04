@@ -174,6 +174,7 @@ export default defineConfig({
             { text: 'Tạo Đánh dấu từ', link: '/lms/h5p/mark-correct-word' },
             { text: 'Tạo Ô chữ', link: '/lms/h5p/cross-word' },
             { text: 'Tạo Kéo từ', link: '/lms/h5p/keo-tu' },
+            { text: 'Tạo So sánh hình ảnh', link: '/lms/h5p/so-sanh' },
           ],
         },
       ],
