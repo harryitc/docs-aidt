@@ -173,6 +173,7 @@ export default defineConfig({
             { text: 'Tạo Câu hỏi Đúng/Sai', link: '/lms/h5p/question-yes-no' },
             { text: 'Tạo Đánh dấu từ', link: '/lms/h5p/mark-correct-word' },
             { text: 'Tạo Ô chữ', link: '/lms/h5p/cross-word' },
+            { text: 'Tạo Kéo từ', link: '/lms/h5p/keo-tu' },
           ],
         },
       ],

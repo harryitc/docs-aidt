@@ -50,3 +50,4 @@ Một nội dung H5P đã tạo có thể được **chọn và giao lại** ở
 - [Tạo Câu hỏi Đúng/Sai](/lms/h5p/question-yes-no) — câu hỏi Đúng/Sai đơn giản, có thể kèm hình ảnh.
 - [Tạo Đánh dấu từ](/lms/h5p/mark-correct-word) — đánh dấu các từ đúng trong đoạn văn để sinh viên nhấn chọn.
 - [Tạo Ô chữ](/lms/h5p/cross-word) — soạn gợi ý và đáp án để sinh viên giải ô chữ.
+- [Tạo Kéo từ](/lms/h5p/keo-tu) — đánh dấu từ trong đoạn văn để sinh viên kéo thả vào chỗ trống.
