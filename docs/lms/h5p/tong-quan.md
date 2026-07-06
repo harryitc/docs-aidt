@@ -52,3 +52,4 @@ Một nội dung H5P đã tạo có thể được **chọn và giao lại** ở
 - [Tạo Ô chữ](/lms/h5p/cross-word) — soạn gợi ý và đáp án để sinh viên giải ô chữ.
 - [Tạo Kéo từ](/lms/h5p/keo-tu) — đánh dấu từ trong đoạn văn để sinh viên kéo thả vào chỗ trống.
 - [Tạo So sánh hình ảnh](/lms/h5p/so-sanh) — đặt hai hình ảnh với thanh trượt để so sánh trước/sau.
+- [Tạo Điền từ](/lms/h5p/dien-tu) — soạn đoạn văn có ô trống để sinh viên gõ từ còn thiếu vào.
