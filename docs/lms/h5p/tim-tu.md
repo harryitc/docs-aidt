@@ -33,7 +33,7 @@ Phần **tạo bài tập**, **mở công cụ H5P** và mở **Ngân hàng H5P*
 Nhập các thông tin chính:
 
 - **Tiêu đề** — tên nội dung.
-- **Mô tả nhiệm vụ** — câu lệnh hiển thị phía trên lưới (ví dụ *Thuật ngữ cơ bản*).
+- **Mô tả nhiệm vụ** — câu dẫn hiển thị phía trên lưới (ví dụ *Thuật ngữ cơ bản*).
 - **Danh sách từ** — các từ cần tìm, **phân tách bằng dấu phẩy** (ví dụ `windows,program,compiler,debugger,editor,project,...`).
 
 <figure>
@@ -46,7 +46,7 @@ Nhập các thông tin chính:
 Mở mục cấu hình để tinh chỉnh trò chơi:
 
 - **Ưu tiên chống chéo** — hạn chế các từ đè lên nhau để lưới gọn hơn.
-- **Hiển thị từ vựng** — hiện danh sách các từ cần tìm cho người chơi.
+- **Hiển thị từ vựng** — hiện danh sách các từ cần tìm cho sinh viên.
 - **Bật hiển thị giải pháp** — thêm nút xem đáp án.
 - **Bật thử lại** — thêm nút chơi lại.
 

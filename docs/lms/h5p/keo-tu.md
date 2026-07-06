@@ -5,7 +5,7 @@ description: "Hướng dẫn giảng viên tạo nội dung H5P dạng Kéo từ
 
 # Tạo Kéo từ
 
-**Kéo từ (Drag the Words)** là loại nội dung H5P dạng **câu hỏi có chấm điểm**: giảng viên soạn một đoạn văn và **đánh dấu các từ cần kéo**; hệ thống tạo chỗ trống tương ứng, còn các từ bị xáo trộn sang một bên. Sinh viên **kéo thả từng từ vào đúng vị trí** để hoàn thành. Giảng viên đánh dấu từ cần kéo bằng cách đặt dấu sao quanh từ — ví dụ `*từKéo*`.
+**Kéo từ (Drag the Words)** là loại nội dung H5P dạng **câu hỏi có chấm điểm**: Thầy/Cô soạn một đoạn văn và **đánh dấu các từ cần kéo**; hệ thống tạo chỗ trống tương ứng, còn các từ bị xáo trộn sang một bên. Sinh viên **kéo thả từng từ vào đúng vị trí** để hoàn thành. Thầy/Cô đánh dấu từ cần kéo bằng cách đặt dấu sao quanh từ — ví dụ `*từKéo*`.
 
 <figure>
   <img src="/images/lms/h5p/keo-tu/keo-tu-result.png" alt="Sinh viên kéo thả các từ vào đúng vị trí trong đoạn code">

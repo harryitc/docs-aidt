@@ -37,7 +37,7 @@ Phần **tạo bài tập**, **mở công cụ H5P** và mở **Ngân hàng H5P*
 
 ## Tạo thẻ ghi nhớ
 
-Nhập **Tiêu đề** và **Mô tả nhiệm vụ** (câu lệnh hiển thị phía trên bộ thẻ). Với mỗi **Thẻ**, nhập:
+Nhập **Tiêu đề** và **Mô tả nhiệm vụ** (câu dẫn hiển thị phía trên bộ thẻ). Với mỗi **Thẻ**, nhập:
 
 - **Câu hỏi** — nội dung câu hỏi bằng văn bản.
 - **Trả lời** — đáp án. Có thể dùng dấu **/** để phân tách nhiều đáp án thay thế.

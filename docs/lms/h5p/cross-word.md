@@ -5,7 +5,7 @@ description: "Hướng dẫn giảng viên tạo nội dung H5P dạng Ô chữ 
 
 # Tạo Ô chữ
 
-**Ô chữ (Crossword)** là loại nội dung H5P dạng **câu đố có chấm điểm**: giảng viên soạn một danh sách **gợi ý** kèm **đáp án**, hệ thống tự sắp xếp các từ thành bảng ô chữ giao nhau. Sinh viên đọc gợi ý và điền đáp án theo hàng ngang, hàng dọc.
+**Ô chữ (Crossword)** là loại nội dung H5P dạng **câu đố có chấm điểm**: Thầy/Cô soạn một danh sách **gợi ý** kèm **đáp án**, hệ thống tự sắp xếp các từ thành bảng ô chữ giao nhau. Sinh viên đọc gợi ý và điền đáp án theo hàng ngang, hàng dọc.
 
 <figure>
   <img src="/images/lms/h5p/cross-word/cross-word-result.png" alt="Sinh viên đọc gợi ý và điền đáp án vào bảng ô chữ">
