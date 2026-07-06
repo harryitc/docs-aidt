@@ -16,9 +16,12 @@ Khi giảng viên chia lớp thành các **nhóm**, bạn sẽ cùng các thành
 
 ## Xem nhóm của bạn
 
-Trong lớp, mở mục **Các nhóm** (Groups) ở thanh điều hướng bên trái để xem (các) nhóm mà bạn đang thuộc về. Nhấn vào **tên nhóm** để mở **trang nhóm**.
+Nhấn **Các nhóm** (Groups) trên **thanh điều hướng chính** (cột biểu tượng ngoài cùng bên trái) để mở danh sách **tất cả các nhóm** bạn đang tham gia, kèm **tên lớp học phần** tương ứng. Nhấn vào **tên nhóm** để mở **trang nhóm**.
 
-<!-- ẢNH sv-group-list.png: Mục Các nhóm trong lớp, hiển thị nhóm sinh viên đang tham gia -->
+<figure>
+  <img src="/images/lms/hoc-nhom/sv-group-list.png" alt="Bảng Các nhóm hiển thị các nhóm sinh viên đang tham gia kèm tên lớp học phần">
+  <figcaption>Hình 1: Nhấn Các nhóm trên thanh điều hướng chính để xem các nhóm bạn đang tham gia.</figcaption>
+</figure>
 
 ## Tự đăng ký vào nhóm
 
