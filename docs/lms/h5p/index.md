@@ -24,7 +24,7 @@ Nội dung H5P **hiển thị và chấm ngay** trên Canvas, giúp bài giảng
 
 - [Tổng quan & Ngân hàng H5P](/lms/h5p/tong-quan)
 - [Tạo Video tương tác](/lms/h5p/video-tuong-tac)
-- [Tạo Tìm điểm nóng](/lms/h5p/single-hotspot)
+- [Tạo Tìm điểm tương tác](/lms/h5p/single-hotspot)
 - [Tạo Tìm từ](/lms/h5p/tim-tu)
 - [Tạo Thẻ ghi nhớ](/lms/h5p/flashcard)
 - [Tạo Câu hỏi Đúng/Sai](/lms/h5p/question-yes-no)

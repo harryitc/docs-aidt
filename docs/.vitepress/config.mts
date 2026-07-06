@@ -169,7 +169,7 @@ export default defineConfig({
             { text: 'Giới thiệu', link: '/lms/h5p/' },
             { text: 'Tổng quan & Ngân hàng H5P', link: '/lms/h5p/tong-quan' },
             { text: 'Video tương tác', link: '/lms/h5p/video-tuong-tac' },
-            { text: 'Tìm điểm nóng', link: '/lms/h5p/single-hotspot' },
+            { text: 'Tìm điểm tương tác', link: '/lms/h5p/single-hotspot' },
             { text: 'Tìm từ', link: '/lms/h5p/tim-tu' },
             { text: 'Thẻ ghi nhớ', link: '/lms/h5p/flashcard' },
             { text: 'Câu hỏi Đúng/Sai', link: '/lms/h5p/question-yes-no' },

@@ -44,7 +44,7 @@ Một nội dung H5P đã tạo có thể được **chọn và giao lại** ở
 ## Bước tiếp theo
 
 - [Tạo Video tương tác](/lms/h5p/video-tuong-tac) — chèn video bài giảng (và tùy chọn câu hỏi xen kẽ) vào bài tập.
-- [Tạo Tìm điểm nóng](/lms/h5p/single-hotspot) — đặt ảnh và đánh dấu điểm đúng để sinh viên tìm.
+- [Tạo Tìm điểm tương tác](/lms/h5p/single-hotspot) — đặt ảnh và đánh dấu vị trí đúng để sinh viên tìm.
 - [Tạo Tìm từ](/lms/h5p/tim-tu) — trò chơi tìm các từ ẩn trong lưới chữ cái.
 - [Tạo Thẻ ghi nhớ](/lms/h5p/flashcard) — bộ thẻ hình ảnh kèm câu hỏi và đáp án để ôn tập.
 - [Tạo Câu hỏi Đúng/Sai](/lms/h5p/question-yes-no) — câu hỏi Đúng/Sai đơn giản, có thể kèm hình ảnh.
