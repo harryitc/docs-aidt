@@ -9,7 +9,6 @@ description: "Giới thiệu hệ thống Canvas LMS của AIDT – HUTECH: nề
 
 <figure>
   <img src="/images/lms/lms-dashboard.png" alt="Bảng điều khiển Canvas LMS với danh sách lớp học phần, mục Cần làm và Phản hồi gần đây">
-  <figcaption>Hình 1: Bảng điều khiển sau khi đăng nhập, hiển thị các lớp học phần, việc cần làm và phản hồi gần đây.</figcaption>
 </figure>
 
 ## Đăng nhập
@@ -20,7 +19,7 @@ description: "Giới thiệu hệ thống Canvas LMS của AIDT – HUTECH: nề
 
 <figure>
   <img src="/images/lms/lms-login.png" alt="Trang đăng nhập HUTECH LMS">
-  <figcaption>Hình 2: Trang đăng nhập HUTECH LMS.</figcaption>
+  <figcaption>Hình 1: Trang đăng nhập HUTECH LMS.</figcaption>
 </figure>
 
 ## Tài liệu theo vai trò
