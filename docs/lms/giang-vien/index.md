@@ -21,9 +21,6 @@ Hướng dẫn sử dụng **Canvas LMS** dành cho giảng viên trong việc t
 - [Truy cập lớp giảng dạy](/lms/giang-vien/truy-cap-lop)
 - [Đăng bài giảng & tài liệu](/lms/giang-vien/dang-tai-lieu)
 - [Tạo bài tập](/lms/giang-vien/tao-bai-tap)
-- [Tạo bài kiểm tra / trắc nghiệm](/lms/giang-vien/tao-bai-kiem-tra)
-- [Chấm điểm & phản hồi](/lms/giang-vien/cham-diem)
-- [Quản lý sinh viên & ghi danh](/lms/giang-vien/quan-ly-sinh-vien)
 - [Tạo nhóm cho lớp](/lms/giang-vien/tao-nhom)
 
 ::: tip
