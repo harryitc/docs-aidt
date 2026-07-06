@@ -33,6 +33,7 @@ Nội dung H5P **hiển thị và chấm ngay** trên Canvas, giúp bài giảng
 - [Tạo Kéo từ](/lms/h5p/keo-tu)
 - [Tạo So sánh hình ảnh](/lms/h5p/so-sanh)
 - [Tạo Điền từ](/lms/h5p/dien-tu)
+- [Tạo Trắc nghiệm nhiều lựa chọn](/lms/h5p/trac-nghiem-nhieu-lua-chon)
 
 ::: info Đang cập nhật
 Mục H5P sẽ tiếp tục được bổ sung hướng dẫn cho từng loại nội dung. Nếu cần hỗ trợ, hãy [liên hệ AIDT](/lien-he/).
