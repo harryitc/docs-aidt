@@ -81,11 +81,16 @@ Trong cửa sổ tạo hoặc **Chỉnh sửa tập hợp nhóm**, tích **Cho p
 
 ## Quản lý nhóm
 
-Trong tab **Các nhóm**, Thầy/Cô có thể:
+Ở tab **Các nhóm**, mỗi tập hợp nhóm liệt kê các nhóm kèm **trưởng nhóm** và **số học viên**. Mở menu **⋮** ở mỗi nhóm để:
 
-- **Đổi tên** hoặc **xóa** một tập hợp nhóm / nhóm.
-- **Di chuyển** sinh viên giữa các nhóm bằng menu **⋮** ở tên sinh viên.
-- **Xem trang nhóm** để theo dõi hoạt động, tập tin và thảo luận của từng nhóm.
+- **Truy cập Trang chủ nhóm** — xem hoạt động, tập tin và thảo luận của nhóm.
+- **Chỉnh sửa** — đổi tên nhóm hoặc giới hạn số thành viên.
+- **Xóa** — xóa nhóm khỏi tập hợp nhóm.
+
+<figure>
+  <img src="/images/lms/hoc-nhom/gv-group-manage.png" alt="Danh sách nhóm trong tập hợp nhóm với menu Truy cập Trang chủ nhóm, Chỉnh sửa, Xóa">
+  <figcaption>Hình 8: Menu ⋮ của mỗi nhóm — Truy cập Trang chủ nhóm, Chỉnh sửa, Xóa.</figcaption>
+</figure>
 
 ::: info Cần hỗ trợ thêm?
 Nếu cần chia nhóm hàng loạt theo danh sách có sẵn, hãy [liên hệ AIDT](/lien-he/) kèm **tên lớp** và **cách chia nhóm** mong muốn.
