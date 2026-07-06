@@ -7,8 +7,6 @@ description: "Hướng dẫn giảng viên tạo và quản lý nhóm sinh viên
 
 Trên **Canvas LMS**, Thầy/Cô có thể chia sinh viên trong lớp thành các **nhóm** để giao **bài tập nhóm**, tổ chức **thảo luận** hoặc **cộng tác** theo nhóm. Các nhóm được tổ chức trong một **tập hợp nhóm (group set)** — mỗi tập hợp nhóm chứa nhiều nhóm và một sinh viên có thể thuộc các nhóm khác nhau ở từng tập hợp nhóm.
 
-> <Icon name="construction" /> *Trang đang được bổ sung hình ảnh minh họa.*
-
 ::: tip Trước khi bắt đầu
 - Vào đúng **lớp** cần chia nhóm; lớp cần đã có **danh sách sinh viên** được ghi danh.
 - Xác định trước **cách chia nhóm**: Thầy/Cô tự xếp, hệ thống chia tự động, hay để sinh viên tự chọn nhóm.
@@ -74,9 +72,12 @@ Trong cửa sổ tạo hoặc **Chỉnh sửa tập hợp nhóm**, tích **Cho p
 
 ## Giao bài tập cho nhóm
 
-Để chấm điểm theo nhóm, khi [tạo bài tập](/lms/giang-vien/tao-bai-tap) hãy bật tùy chọn **Đây là bài tập nhóm (Group Assignment)** và chọn **tập hợp nhóm** vừa tạo. Khi đó chỉ **một thành viên nộp bài** là cả nhóm được ghi nhận; Thầy/Cô có thể chấm **một điểm chung** cho cả nhóm hoặc điểm riêng từng thành viên.
+Để chấm điểm theo nhóm, khi [tạo bài tập](/lms/giang-vien/tao-bai-tap) hãy tích **Đây là một Bài tập nhóm** ở mục **Bài tập nhóm**, rồi ở **Tập hợp nhóm** chọn danh mục nhóm vừa tạo. Khi đó chỉ **một thành viên nộp bài** là cả nhóm được ghi nhận; Thầy/Cô có thể chấm **một điểm chung** cho cả nhóm, hoặc tích **Chỉ Định Điểm cho Từng sinh viên** để cho điểm riêng từng người.
 
-<!-- ẢNH gv-group-assignment.png: Tùy chọn Đây là bài tập nhóm và chọn tập hợp nhóm khi tạo bài tập -->
+<figure>
+  <img src="/images/lms/hoc-nhom/gv-group-assignment.png" alt="Tùy chọn Đây là một Bài tập nhóm và chọn Tập hợp nhóm khi tạo bài tập">
+  <figcaption>Hình 7: Tích "Đây là một Bài tập nhóm" và chọn tập hợp nhóm ở danh mục nhóm.</figcaption>
+</figure>
 
 ## Quản lý nhóm
 
