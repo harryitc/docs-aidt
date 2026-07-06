@@ -41,13 +41,17 @@ Một số nhóm giới hạn **số thành viên tối đa**. Khi nhóm đã đ
 
 **Trang nhóm** là không gian riêng của nhóm, có thanh điều hướng riêng với các công cụ:
 
-- **Trang chủ** — bảng tin và hoạt động gần đây của nhóm.
-- **Thông báo / Thảo luận** — trao đổi nội bộ giữa các thành viên.
-- **Tập tin (Files)** — kho lưu tài liệu dùng chung của nhóm.
-- **Cộng tác (Collaborations)** — cùng soạn thảo tài liệu trực tuyến.
+- **Trang chủ** — hoạt động gần đây và bảng tin của nhóm.
+- **Thông báo chung** — thông báo nội bộ trong nhóm.
+- **Các trang** — trang nội dung dùng chung do nhóm tạo.
 - **Thành viên** — danh sách các bạn trong nhóm.
+- **Thảo luận** — trao đổi, thảo luận giữa các thành viên.
+- **Tập tin** — kho lưu tài liệu dùng chung của nhóm.
 
-<!-- ẢNH sv-group-home.png: Trang chủ của nhóm với thanh công cụ Thảo luận, Tập tin, Cộng tác -->
+<figure>
+  <img src="/images/lms/hoc-nhom/sv-group-home.png" alt="Trang chủ của nhóm với thanh điều hướng riêng: Trang chủ, Thông báo chung, Các trang, Thành viên, Thảo luận, Tập tin">
+  <figcaption>Hình 2: Trang chủ của nhóm và thanh điều hướng riêng với các công cụ của nhóm.</figcaption>
+</figure>
 
 ## Nộp bài tập nhóm
 
