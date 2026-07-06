@@ -20,6 +20,7 @@ Hướng dẫn sử dụng **Canvas LMS** dành cho sinh viên trong quá trình
 - [Truy cập khóa học](/lms/sinh-vien/truy-cap-khoa-hoc)
 - [Làm bài kiểm tra / trắc nghiệm](/lms/sinh-vien/lam-bai-kiem-tra)
 - [Làm bài thi](/lms/sinh-vien/lam-bai-thi)
+- [Tham gia & làm việc nhóm](/lms/sinh-vien/tao-nhom)
 
 ::: tip
 Khóa học chỉ xuất hiện sau khi bạn đã được **ghi danh** vào lớp. Nếu thiếu khóa học, hãy [liên hệ hỗ trợ](/lien-he/).

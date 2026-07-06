@@ -145,6 +145,7 @@ export default defineConfig({
             { text: 'Truy cập khóa học', link: '/lms/sinh-vien/truy-cap-khoa-hoc' },
             { text: 'Làm bài kiểm tra / trắc nghiệm', link: '/lms/sinh-vien/lam-bai-kiem-tra' },
             { text: 'Làm bài thi', link: '/lms/sinh-vien/lam-bai-thi' },
+            { text: 'Tham gia & làm việc nhóm', link: '/lms/sinh-vien/tao-nhom' },
           ],
         },
         {
@@ -158,6 +159,7 @@ export default defineConfig({
             { text: 'Tạo bài kiểm tra / trắc nghiệm', link: '/lms/giang-vien/tao-bai-kiem-tra' },
             { text: 'Chấm điểm & phản hồi', link: '/lms/giang-vien/cham-diem' },
             { text: 'Quản lý sinh viên & ghi danh', link: '/lms/giang-vien/quan-ly-sinh-vien' },
+            { text: 'Tạo nhóm cho lớp', link: '/lms/giang-vien/tao-nhom' },
           ],
         },
         {

@@ -24,6 +24,7 @@ Hướng dẫn sử dụng **Canvas LMS** dành cho giảng viên trong việc t
 - [Tạo bài kiểm tra / trắc nghiệm](/lms/giang-vien/tao-bai-kiem-tra)
 - [Chấm điểm & phản hồi](/lms/giang-vien/cham-diem)
 - [Quản lý sinh viên & ghi danh](/lms/giang-vien/quan-ly-sinh-vien)
+- [Tạo nhóm cho lớp](/lms/giang-vien/tao-nhom)
 
 ::: tip
 Nếu cần cấp quyền giảng viên hoặc tạo lớp mới, hãy [liên hệ hỗ trợ AIDT](/lien-he/).
