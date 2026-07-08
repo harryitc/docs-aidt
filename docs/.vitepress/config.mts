@@ -12,7 +12,7 @@ export default defineConfig({
   title: 'AIDT — Trung tâm Hỗ trợ',
   titleTemplate: ':title | AIDT',
   description:
-    'Trung tâm hỗ trợ của Viện Trí tuệ Nhân tạo và Chuyển đổi số (AIDT) – HUTECH: hướng dẫn sử dụng hệ thống học tập trực tuyến Canvas LMS.',
+    'Trung tâm hỗ trợ của Viện Trí tuệ Nhân tạo và Chuyển đổi số (AIDT) – HUTECH: hướng dẫn sử dụng hệ thống học tập trực tuyến LMS.',
   lastUpdated: true,
   cleanUrls: true,
 
@@ -24,7 +24,7 @@ export default defineConfig({
   head: [
     ['meta', { name: 'theme-color', content: '#0a6bd4' }],
     ['meta', { name: 'author', content: 'AIDT – HUTECH' }],
-    ['meta', { name: 'keywords', content: 'AIDT, Viện Trí tuệ Nhân tạo và Chuyển đổi số, HUTECH, Canvas LMS, hướng dẫn, hỗ trợ, học trực tuyến' }],
+    ['meta', { name: 'keywords', content: 'AIDT, Viện Trí tuệ Nhân tạo và Chuyển đổi số, HUTECH, LMS, hướng dẫn, hỗ trợ, học trực tuyến' }],
     ['meta', { name: 'robots', content: 'index, follow' }],
     ['link', { rel: 'icon', type: 'image/png', href: '/favicon.png' }],
     ['link', { rel: 'apple-touch-icon', href: '/apple-touch-icon.png' }],
@@ -119,7 +119,7 @@ export default defineConfig({
       {
         text: 'Hỗ trợ',
         items: [
-          { text: 'Hệ thống LMS (Canvas)', link: '/lms/' },
+          { text: 'Hệ thống LMS', link: '/lms/' },
           { text: 'Công cụ H5P', link: '/lms/h5p/' },
         ],
       },
@@ -130,7 +130,7 @@ export default defineConfig({
     sidebar: {
       '/lms/': [
         {
-          text: 'Hệ thống LMS (Canvas)',
+          text: 'Hệ thống LMS',
           items: [
             { text: 'Giới thiệu', link: '/lms/' },
             { text: 'Quên mật khẩu', link: '/lms/quen-mat-khau' },
