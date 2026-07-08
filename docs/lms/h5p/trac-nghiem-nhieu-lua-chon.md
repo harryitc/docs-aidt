@@ -1,6 +1,6 @@
 ---
 title: Tạo Trắc nghiệm nhiều lựa chọn
-description: "Hướng dẫn giảng viên tạo nội dung H5P dạng Trắc nghiệm nhiều lựa chọn (Multiple Choice) trên Canvas LMS: đặt câu hỏi kèm danh sách phương án và đánh dấu đáp án đúng."
+description: "Hướng dẫn giảng viên tạo nội dung H5P dạng Trắc nghiệm nhiều lựa chọn (Multiple Choice) trên LMS: đặt câu hỏi kèm danh sách phương án và đánh dấu đáp án đúng."
 ---
 
 # Tạo Trắc nghiệm nhiều lựa chọn

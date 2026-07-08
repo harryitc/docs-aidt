@@ -1,11 +1,11 @@
 ---
 title: Làm bài kiểm tra / trắc nghiệm
-description: "Hướng dẫn sinh viên mở và làm bài kiểm tra / trắc nghiệm trực tuyến trong từng bài học trên Canvas LMS – HUTECH."
+description: "Hướng dẫn sinh viên mở và làm bài kiểm tra / trắc nghiệm trực tuyến trong từng bài học trên LMS – HUTECH."
 ---
 
 # Làm bài kiểm tra / trắc nghiệm
 
-Trên **Canvas LMS**, bài kiểm tra / trắc nghiệm thường được **gắn trong từng bài học (chương)** của khóa học. Bạn mở bài kiểm tra ngay trong bài học tương ứng để làm.
+Trên **LMS**, bài kiểm tra / trắc nghiệm thường được **gắn trong từng bài học (chương)** của khóa học. Bạn mở bài kiểm tra ngay trong bài học tương ứng để làm.
 
 ## Mở bài kiểm tra
 

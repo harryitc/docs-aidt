@@ -1,11 +1,11 @@
 ---
 title: Tạo bài tập
-description: "Hướng dẫn giảng viên tạo bài tập trên Canvas LMS – HUTECH: bài tập thông thường (nộp tệp, văn bản) và bài tập tương tác bằng công cụ H5P."
+description: "Hướng dẫn giảng viên tạo bài tập trên LMS – HUTECH: bài tập thông thường (nộp tệp, văn bản) và bài tập tương tác bằng công cụ H5P."
 ---
 
 # Tạo bài tập
 
-Trên **Canvas LMS**, Thầy/Cô có thể tạo hai dạng bài tập:
+Trên **LMS**, Thầy/Cô có thể tạo hai dạng bài tập:
 
 - **Bài tập (Assignment):** sinh viên nộp **tệp**, **văn bản** hoặc **liên kết**; có **hạn nộp** và **điểm số**.
 - **Bài tập tương tác (H5P):** nội dung tương tác như **video bài học có chèn câu hỏi**, câu hỏi điền khuyết, thẻ ghi nhớ...

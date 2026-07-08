@@ -1,11 +1,11 @@
 ---
 title: Quên mật khẩu
-description: "Hướng dẫn lấy lại mật khẩu khi đăng nhập Canvas LMS – HUTECH: đặt lại mật khẩu qua email và xử lý các sự cố thường gặp."
+description: "Hướng dẫn lấy lại mật khẩu khi đăng nhập LMS – HUTECH: đặt lại mật khẩu qua email và xử lý các sự cố thường gặp."
 ---
 
 # Quên mật khẩu
 
-Hướng dẫn lấy lại quyền truy cập khi bạn **quên mật khẩu** đăng nhập **Canvas LMS**.
+Hướng dẫn lấy lại quyền truy cập khi bạn **quên mật khẩu** đăng nhập **LMS**.
 
 ::: tip Trước khi bắt đầu
 - Truy cập đúng hệ thống: **[lms.hutech.online](https://lms.hutech.online)**.

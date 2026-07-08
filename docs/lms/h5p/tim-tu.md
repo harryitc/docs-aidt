@@ -1,6 +1,6 @@
 ---
 title: Tạo Tìm từ
-description: "Hướng dẫn giảng viên tạo nội dung H5P dạng Tìm từ (Find the Words) trên Canvas LMS: trò chơi tìm các từ ẩn trong lưới chữ cái."
+description: "Hướng dẫn giảng viên tạo nội dung H5P dạng Tìm từ (Find the Words) trên LMS: trò chơi tìm các từ ẩn trong lưới chữ cái."
 ---
 
 # Tạo Tìm từ

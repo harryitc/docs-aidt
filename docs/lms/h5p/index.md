@@ -1,11 +1,11 @@
 ---
 title: Công cụ H5P
-description: "Giới thiệu H5P trên Canvas LMS – HUTECH: nội dung tương tác như video có chèn câu hỏi, trắc nghiệm, thẻ ghi nhớ, điền khuyết; dành cho giảng viên."
+description: "Giới thiệu H5P trên LMS – HUTECH: nội dung tương tác như video có chèn câu hỏi, trắc nghiệm, thẻ ghi nhớ, điền khuyết; dành cho giảng viên."
 ---
 
 # Công cụ H5P
 
-**H5P** (HTML5 Package) là công cụ tích hợp sẵn trong **Canvas LMS** giúp Thầy/Cô tạo **nội dung tương tác** ngay trong khóa học — không cần cài đặt phần mềm hay biết lập trình. Sinh viên xem, trả lời và nhận phản hồi trực tiếp trên trình duyệt.
+**H5P** (HTML5 Package) là công cụ tích hợp sẵn trong **LMS** giúp Thầy/Cô tạo **nội dung tương tác** ngay trong khóa học — không cần cài đặt phần mềm hay biết lập trình. Sinh viên xem, trả lời và nhận phản hồi trực tiếp trên trình duyệt.
 
 ## H5P dùng để làm gì?
 
@@ -17,7 +17,7 @@ description: "Giới thiệu H5P trên Canvas LMS – HUTECH: nội dung tương
 - <Icon name="list" /> **Bộ câu hỏi (Question Set)** — nhiều câu hỏi gộp thành một bài luyện tập.
 
 ::: tip Vì sao nên dùng H5P?
-Nội dung H5P **hiển thị và chấm ngay** trên Canvas, giúp bài giảng sinh động hơn và tăng tương tác của sinh viên so với tài liệu tĩnh (PDF, slide).
+Nội dung H5P **hiển thị và chấm ngay** trên LMS, giúp bài giảng sinh động hơn và tăng tương tác của sinh viên so với tài liệu tĩnh (PDF, slide).
 :::
 
 ## Nội dung hướng dẫn

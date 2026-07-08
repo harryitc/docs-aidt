@@ -1,6 +1,6 @@
 ---
 title: Tổng quan & Ngân hàng H5P
-description: "Cách mở công cụ H5P trong Canvas LMS và làm việc với Ngân hàng H5P: nơi lưu, tái sử dụng và giao các nội dung tương tác."
+description: "Cách mở công cụ H5P trong LMS và làm việc với Ngân hàng H5P: nơi lưu, tái sử dụng và giao các nội dung tương tác."
 ---
 
 # Tổng quan & Ngân hàng H5P

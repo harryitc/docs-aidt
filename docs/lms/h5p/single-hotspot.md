@@ -1,6 +1,6 @@
 ---
 title: Tạo Tìm điểm tương tác
-description: "Hướng dẫn giảng viên tạo nội dung H5P dạng Tìm điểm tương tác (Find the Hotspot) trên Canvas LMS: đặt một hình ảnh và đánh dấu vị trí đúng để sinh viên tìm và nhấn."
+description: "Hướng dẫn giảng viên tạo nội dung H5P dạng Tìm điểm tương tác (Find the Hotspot) trên LMS: đặt một hình ảnh và đánh dấu vị trí đúng để sinh viên tìm và nhấn."
 ---
 
 # Tạo Tìm điểm tương tác

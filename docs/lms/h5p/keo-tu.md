@@ -1,6 +1,6 @@
 ---
 title: Tạo Kéo từ
-description: "Hướng dẫn giảng viên tạo nội dung H5P dạng Kéo từ (Drag the Words) trên Canvas LMS: soạn đoạn văn có chỗ trống để sinh viên kéo thả từ vào đúng vị trí."
+description: "Hướng dẫn giảng viên tạo nội dung H5P dạng Kéo từ (Drag the Words) trên LMS: soạn đoạn văn có chỗ trống để sinh viên kéo thả từ vào đúng vị trí."
 ---
 
 # Tạo Kéo từ

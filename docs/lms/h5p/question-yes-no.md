@@ -1,6 +1,6 @@
 ---
 title: Tạo Câu hỏi Đúng/Sai
-description: "Hướng dẫn giảng viên tạo nội dung H5P dạng Câu hỏi Đúng/Sai (True/False Question) trên Canvas LMS: đặt câu hỏi kèm hình ảnh và chọn đáp án đúng."
+description: "Hướng dẫn giảng viên tạo nội dung H5P dạng Câu hỏi Đúng/Sai (True/False Question) trên LMS: đặt câu hỏi kèm hình ảnh và chọn đáp án đúng."
 ---
 
 # Tạo Câu hỏi Đúng/Sai

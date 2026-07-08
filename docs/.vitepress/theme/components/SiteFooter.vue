@@ -13,7 +13,7 @@ const year = new Date().getFullYear()
 
 const links = [
   { text: 'Trang chủ', link: '/' },
-  { text: 'Hệ thống LMS (Canvas)', link: '/lms/' },
+  { text: 'Hệ thống LMS', link: '/lms/' },
   { text: 'Hệ thống AIDT', link: 'https://aidt.hutech.edu.vn/' },
   { text: 'Liên hệ', link: '/lien-he/' },
 ]

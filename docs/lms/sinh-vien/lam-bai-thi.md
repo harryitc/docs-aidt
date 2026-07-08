@@ -1,11 +1,11 @@
 ---
 title: Làm bài thi
-description: "Hướng dẫn sinh viên làm bài thi có giám sát trên Canvas LMS – HUTECH: thời gian làm bài, quy định giám sát và các bước thực hiện."
+description: "Hướng dẫn sinh viên làm bài thi có giám sát trên LMS – HUTECH: thời gian làm bài, quy định giám sát và các bước thực hiện."
 ---
 
 # Làm bài thi
 
-Trên **Canvas LMS**, bài thi thường là **bài thi có giám sát**: **giới hạn thời gian**, **hết giờ tự động nộp** và áp dụng các **quy định nghiêm ngặt** trong lúc làm bài.
+Trên **LMS**, bài thi thường là **bài thi có giám sát**: **giới hạn thời gian**, **hết giờ tự động nộp** và áp dụng các **quy định nghiêm ngặt** trong lúc làm bài.
 
 ## Quy định khi thi có giám sát
 

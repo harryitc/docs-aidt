@@ -1,11 +1,11 @@
 ---
 title: Truy cập lớp giảng dạy
-description: "Hướng dẫn giảng viên truy cập lớp được phân công trên Canvas LMS – HUTECH: nhận thông báo phân công lớp, đăng nhập và vào lớp giảng dạy."
+description: "Hướng dẫn giảng viên truy cập lớp được phân công trên LMS – HUTECH: nhận thông báo phân công lớp, đăng nhập và vào lớp giảng dạy."
 ---
 
 # Truy cập lớp giảng dạy
 
-Trên hệ thống **Canvas LMS**, bộ phận **Đào tạo** sẽ tạo các lớp học phần và **phân công** giảng viên phụ trách. Thầy/Cô không cần tự tạo lớp — chỉ cần nhận thông báo và truy cập lớp được phân công để giảng dạy.
+Trên hệ thống **LMS**, bộ phận **Đào tạo** sẽ tạo các lớp học phần và **phân công** giảng viên phụ trách. Thầy/Cô không cần tự tạo lớp — chỉ cần nhận thông báo và truy cập lớp được phân công để giảng dạy.
 
 ::: tip Trước khi bắt đầu
 - Truy cập đúng hệ thống: **[lms.hutech.online](https://lms.hutech.online)**.
@@ -27,7 +27,7 @@ Lớp chỉ xuất hiện trên Bảng điều khiển **sau khi Thầy/Cô đã
 
 ## Các bước
 
-**Bước 1:** Đăng nhập hệ thống **Canvas LMS** bằng tài khoản được cấp.
+**Bước 1:** Đăng nhập hệ thống **LMS** bằng tài khoản được cấp.
 
 
 **Bước 2:** Tại **Bảng điều khiển**, Thầy/Cô sẽ thấy danh sách các **lớp** được phân công giảng dạy.

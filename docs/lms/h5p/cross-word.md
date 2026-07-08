@@ -1,6 +1,6 @@
 ---
 title: Tạo Ô chữ
-description: "Hướng dẫn giảng viên tạo nội dung H5P dạng Ô chữ (Crossword) trên Canvas LMS: soạn danh sách gợi ý và đáp án để sinh viên giải ô chữ."
+description: "Hướng dẫn giảng viên tạo nội dung H5P dạng Ô chữ (Crossword) trên LMS: soạn danh sách gợi ý và đáp án để sinh viên giải ô chữ."
 ---
 
 # Tạo Ô chữ

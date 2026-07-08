@@ -31,5 +31,5 @@ Thứ Hai – Thứ Sáu: 8:00 – 16:00 (trừ ngày lễ).
 ## Khi liên hệ, vui lòng cung cấp
 
 - Họ tên và **mã số** (sinh viên/giảng viên), nếu có.
-- **Hệ thống / dịch vụ** cần hỗ trợ (ví dụ: Canvas LMS).
+- **Hệ thống / dịch vụ** cần hỗ trợ (ví dụ: LMS).
 - **Mô tả nội dung** cần hỗ trợ kèm ảnh chụp màn hình (nếu có) để được xử lý nhanh hơn.

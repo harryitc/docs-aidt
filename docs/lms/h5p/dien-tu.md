@@ -1,6 +1,6 @@
 ---
 title: Tạo Điền từ
-description: "Hướng dẫn giảng viên tạo nội dung H5P dạng Điền từ (Điền vào chỗ trống — Fill in the Blanks) trên Canvas LMS: soạn đoạn văn có ô trống để sinh viên gõ từ còn thiếu."
+description: "Hướng dẫn giảng viên tạo nội dung H5P dạng Điền từ (Điền vào chỗ trống — Fill in the Blanks) trên LMS: soạn đoạn văn có ô trống để sinh viên gõ từ còn thiếu."
 ---
 
 # Tạo Điền từ

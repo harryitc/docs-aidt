@@ -1,13 +1,13 @@
 ---
 title: LMS dành cho Giảng viên
-description: "Hướng dẫn sử dụng Canvas LMS cho giảng viên: tạo khóa học, đăng tài liệu, ra bài tập và kiểm tra, chấm điểm và quản lý lớp học."
+description: "Hướng dẫn sử dụng LMS cho giảng viên: tạo khóa học, đăng tài liệu, ra bài tập và kiểm tra, chấm điểm và quản lý lớp học."
 ---
 
 # LMS dành cho Giảng viên
 
-Hướng dẫn sử dụng **Canvas LMS** dành cho giảng viên trong việc tổ chức và giảng dạy trực tuyến.
+Hướng dẫn sử dụng **LMS** dành cho giảng viên trong việc tổ chức và giảng dạy trực tuyến.
 
-## Thầy/Cô có thể làm gì trên Canvas?
+## Thầy/Cô có thể làm gì trên LMS?
 
 - <Icon name="book-open" /> **Truy cập các lớp** được phân công giảng dạy.
 - <Icon name="folder" /> **Đăng bài giảng, tài liệu** cho sinh viên.

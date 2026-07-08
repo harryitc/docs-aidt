@@ -1,6 +1,6 @@
 ---
 title: Đăng bài giảng & tài liệu
-description: "Hướng dẫn giảng viên đăng bài giảng và tài liệu lên lớp học trên Canvas LMS – HUTECH: tải tệp, soạn trang nội dung và tổ chức theo mô-đun."
+description: "Hướng dẫn giảng viên đăng bài giảng và tài liệu lên lớp học trên LMS – HUTECH: tải tệp, soạn trang nội dung và tổ chức theo mô-đun."
 ---
 
 # Đăng bài giảng & tài liệu

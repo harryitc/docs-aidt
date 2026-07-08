@@ -1,6 +1,6 @@
 ---
 title: Tạo Video tương tác
-description: "Hướng dẫn giảng viên tạo nội dung H5P dạng Video tương tác trên Canvas LMS: nhúng video bài giảng và chèn câu hỏi tương tác vào các mốc thời gian."
+description: "Hướng dẫn giảng viên tạo nội dung H5P dạng Video tương tác trên LMS: nhúng video bài giảng và chèn câu hỏi tương tác vào các mốc thời gian."
 ---
 
 # Tạo Video tương tác

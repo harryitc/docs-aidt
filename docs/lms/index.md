@@ -1,14 +1,14 @@
 ---
-title: Hệ thống LMS (Canvas)
-description: "Giới thiệu hệ thống Canvas LMS của AIDT – HUTECH: nền tảng học tập trực tuyến cho sinh viên và giảng viên."
+title: Hệ thống LMS
+description: "Giới thiệu hệ thống LMS của AIDT – HUTECH: nền tảng học tập trực tuyến cho sinh viên và giảng viên."
 ---
 
-# Giới thiệu hệ thống LMS (Canvas)
+# Giới thiệu hệ thống LMS
 
-**Canvas LMS (Learning Management System)** là nền tảng quản lý học tập trực tuyến được **AIDT – HUTECH** triển khai trên nền mã nguồn **Canvas** — nơi tổ chức khóa học, tài liệu, bài tập, kiểm tra và theo dõi quá trình học tập.
+**LMS (Learning Management System)** là nền tảng quản lý học tập trực tuyến được **AIDT – HUTECH** triển khai — nơi tổ chức khóa học, tài liệu, bài tập, kiểm tra và theo dõi quá trình học tập.
 
 <figure>
-  <img src="/images/lms/lms-dashboard.png" alt="Bảng điều khiển Canvas LMS với danh sách lớp học phần, mục Cần làm và Phản hồi gần đây">
+  <img src="/images/lms/lms-dashboard.png" alt="Bảng điều khiển LMS với danh sách lớp học phần, mục Cần làm và Phản hồi gần đây">
 </figure>
 
 ## Đăng nhập

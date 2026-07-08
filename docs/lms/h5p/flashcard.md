@@ -1,6 +1,6 @@
 ---
 title: Tạo Thẻ ghi nhớ
-description: "Hướng dẫn giảng viên tạo nội dung H5P dạng Thẻ ghi nhớ (Flashcards) trên Canvas LMS: mỗi thẻ có hình ảnh, câu hỏi và đáp án để sinh viên điền và kiểm tra."
+description: "Hướng dẫn giảng viên tạo nội dung H5P dạng Thẻ ghi nhớ (Flashcards) trên LMS: mỗi thẻ có hình ảnh, câu hỏi và đáp án để sinh viên điền và kiểm tra."
 ---
 
 # Tạo Thẻ ghi nhớ

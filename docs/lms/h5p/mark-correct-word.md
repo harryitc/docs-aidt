@@ -1,6 +1,6 @@
 ---
 title: Tạo Đánh dấu từ
-description: "Hướng dẫn giảng viên tạo nội dung H5P dạng Đánh dấu từ (Mark the Words) trên Canvas LMS: đánh dấu các từ đúng trong đoạn văn để sinh viên nhấn chọn."
+description: "Hướng dẫn giảng viên tạo nội dung H5P dạng Đánh dấu từ (Mark the Words) trên LMS: đánh dấu các từ đúng trong đoạn văn để sinh viên nhấn chọn."
 ---
 
 # Tạo Đánh dấu từ

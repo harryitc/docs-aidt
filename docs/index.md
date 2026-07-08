@@ -17,7 +17,7 @@ hero:
 features:
   - icon: '<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="m4.93 4.93 4.24 4.24"/><path d="m14.83 9.17 4.24-4.24"/><path d="m14.83 14.83 4.24 4.24"/><path d="m9.17 14.83-4.24 4.24"/><circle cx="12" cy="12" r="4"/></svg>'
     title: Hỗ trợ & Tài liệu
-    details: Hướng dẫn sử dụng, giải đáp thắc mắc và xử lý sự cố cho các hệ thống của AIDT (bắt đầu với Canvas LMS).
+    details: Hướng dẫn sử dụng, giải đáp thắc mắc và xử lý sự cố cho các hệ thống của AIDT (bắt đầu với hệ thống LMS).
     link: /lms/
     linkText: Xem hỗ trợ
   - icon: '<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect width="20" height="14" x="2" y="3" rx="2"/><line x1="8" x2="16" y1="21" y2="21"/><line x1="12" x2="12" y1="17" y2="21"/></svg>'

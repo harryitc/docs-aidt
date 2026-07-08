@@ -1,11 +1,11 @@
 ---
 title: Tham gia & làm việc nhóm
-description: "Hướng dẫn sinh viên tham gia nhóm trên Canvas LMS: xem nhóm của mình, tự đăng ký vào nhóm, sử dụng trang nhóm và nộp bài tập nhóm."
+description: "Hướng dẫn sinh viên tham gia nhóm trên LMS: xem nhóm của mình, tự đăng ký vào nhóm, sử dụng trang nhóm và nộp bài tập nhóm."
 ---
 
 # Tham gia & làm việc nhóm
 
-Khi giảng viên chia lớp thành các **nhóm**, bạn sẽ cùng các thành viên trong nhóm làm **bài tập nhóm**, **thảo luận** và **cộng tác** trên **Canvas LMS**. Trang này hướng dẫn cách xem nhóm của bạn, tự đăng ký vào nhóm (nếu được cho phép) và sử dụng các công cụ trong nhóm.
+Khi giảng viên chia lớp thành các **nhóm**, bạn sẽ cùng các thành viên trong nhóm làm **bài tập nhóm**, **thảo luận** và **cộng tác** trên **LMS**. Trang này hướng dẫn cách xem nhóm của bạn, tự đăng ký vào nhóm (nếu được cho phép) và sử dụng các công cụ trong nhóm.
 
 > <Icon name="construction" /> *Trang đang được bổ sung hình ảnh minh họa.*
 

@@ -1,13 +1,13 @@
 ---
 title: LMS dành cho Sinh viên
-description: "Hướng dẫn sử dụng Canvas LMS cho sinh viên: truy cập khóa học, tải tài liệu, nộp bài tập và làm bài kiểm tra trực tuyến."
+description: "Hướng dẫn sử dụng LMS cho sinh viên: truy cập khóa học, tải tài liệu, nộp bài tập và làm bài kiểm tra trực tuyến."
 ---
 
 # LMS dành cho Sinh viên
 
-Hướng dẫn sử dụng **Canvas LMS** dành cho sinh viên trong quá trình học tập trực tuyến.
+Hướng dẫn sử dụng **LMS** dành cho sinh viên trong quá trình học tập trực tuyến.
 
-## Bạn có thể làm gì trên Canvas?
+## Bạn có thể làm gì trên LMS?
 
 - <Icon name="book-open" /> Xem danh sách **khóa học** theo học kỳ.
 - <Icon name="folder" /> Tải **tài liệu, bài giảng** của giảng viên.

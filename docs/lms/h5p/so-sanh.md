@@ -1,6 +1,6 @@
 ---
 title: Tạo So sánh hình ảnh
-description: "Hướng dẫn giảng viên tạo nội dung H5P dạng So sánh hình ảnh (Image Juxtaposition) trên Canvas LMS: đặt hai hình ảnh cạnh nhau với thanh trượt để so sánh."
+description: "Hướng dẫn giảng viên tạo nội dung H5P dạng So sánh hình ảnh (Image Juxtaposition) trên LMS: đặt hai hình ảnh cạnh nhau với thanh trượt để so sánh."
 ---
 
 # Tạo So sánh hình ảnh
