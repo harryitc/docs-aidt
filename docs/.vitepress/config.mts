@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // Đổi domain này thành tên miền thật khi triển khai (dùng cho SEO: sitemap, canonical, Open Graph)
 const SITE_URL = 'https://docs-lms.vercel.app'
-const OG_IMAGE = `${SITE_URL}/logo.png` // ảnh chia sẻ mạng xã hội (thay bằng og-image.png 1200x630 để đẹp hơn)
+const OG_IMAGE = `${SITE_URL}/og-image.png` // ảnh chia sẻ mạng xã hội 1200x630
 
 const BRAND = 'Viện Trí tuệ Nhân tạo và Chuyển đổi số (AIDT) – HUTECH'
 
